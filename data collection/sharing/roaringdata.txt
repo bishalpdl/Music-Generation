@@ -1,0 +1,3439 @@
+
+X: 1
+T:8 - Poma Doro
+C:trad
+O:Belgium
+S:Manuscrit dit du Cinquantenaire
+S:Receuil de Contredances Angloises - page 6
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:6/8
+L:1/8
+K:Gmaj
+zBc|d>ed g2d|"+"e2d g2G|A>Bc B>cA|"+"B2A D>Bc|
+d>ed g2d|e2d g2G|A>Bc B2A|G3:|
+|:ga|b>ag g>fe|a2A A2a|gaf e2d|"+"d2^c A2g|
+f>ga A2g|f>ga A2g|f>ga A2"+"^c|d2D zd=c|
+BAG d2=F|"+"FE2 C>ed|c>BA d2G|"+"G2F D2c|
+B>cd D2c|B>cd D2c|B>cd D2F|G3:|]
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/SeymourShlien/makams/makamu6.abc	 2022-05-02 015054 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.ca/~seymour/runabc/makams/makamu6.abc	 2022-05-02 015056 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.pugmarks.com/~seymour/makams/makamu6.abc	 2022-05-02 015101 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: https://github.com/MTG/SymbTr/releases/tag/v2.2
+N: Also see http://ifdo.ca/~seymour/runabc/makams/index.html
+N: segah--sarki--murekkepsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepsofyan	MÃ¼rekkep Sofyan	12	8
+M: 12/8
+L: 1/16
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+ [M: 12/8] [L: 1/16]G6B4c2 d4 B2d2 c2A2  | \
+w:  ARANAÄME  |
+G22z2  | g6g2 e2g2 f2d2 f2e2 c2e2  | \
+w:   |   |
+d22z2  |
+w:   |
+g6g2 ^3/4f2e2 ^1/4f2e2 d2c2 B2d2  | \
+w:   |
+c22B2  | d8-d2B2 c4 B2B2 ^A2{d}cB  |
+w:   |   |
+B22z2  | G6B4c2 d4 c2d2 c2{d}cB  | B22z2  | \
+w:   |  DÃ¼Å tÃ¼  *  en *  gin *  *  le  |  re   |
+g8-g2f2 f4 e2ed e2f{c}d  |
+w:  bir  *  in *  ce  *  *  hÃ¼  |
+d6d2 B2d2 c2A2 c2B2 A2G2  | G6B4c2 d4 c2d2 c2{d}cB  | \
+w:  zÃ¼n   SAZ  |  DÃ¼Å tÃ¼  *  en *  gin *  *  le  |
+B22z2  |
+w:  re   |
+g8-g2f2 f4 e2ed e2f{c}d  | d12 d2.G2 .B2.d6  | \
+w:  bir  *  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2c4B2  | d12 d2.G2 .B2.d6  | \
+w:  bi   |  sev *  da *  lÄ±  yÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2cB c2dB  | B22z2  | \
+w:  bi   |  sev *  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |
+G6B4c2 d6e4f2  | g18z4g2  |
+w:  Ner de  *  meh tÃ¢  |  bÄ±  ha  |
+g8-g2f2 f4 e2e4f2  | g6g2 f2e2 d2e2 d2c2 B2A2  | \
+w:  zin  *  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+G6B4c2 d6e4f2  |
+w:  Ner de  *  meh tÃ¢  |
+g18z4a2  | a8-a2g2 f4 e2{f}ed e2f{c}d  | \
+w:  bÄ±  ha  |  zin  *  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |
+d12 d2G2 B2d6  | B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  zÃ¼n   SAZ  |  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2c4B2  | d12 d2.G2 .B2.d6  | \
+w:  bi   |  sev *  da *  lÄ±  yÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2cB c2dB  | B22z2  | |
+
+
+
+
+
+X: 1
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Campbell &amp; Campbell - The Kilberry Book of Ceol Meadhonach (1908, No. 13, p. 7)
+F:http://tunearch.org/wiki/Land_of_the_Trees_(The)	 2022-05-02 015109 UT
+K:D
+e2|A2A2d2|B2A2 Bd|e2e2f2|e2e2 ef|
+A2A2 GA|B2d2 de|f2 ed B2|A4:|
+|:Bd|e2 f&gt;A Bd|B2A2 Bd|e2 fa f2 e/f/|e2d2 f&gt;A|
+A2 GA BA|B2d2 de|f2 ed B2|A4:|]
+</pre>
+<pre>X:2
+T:Land of the Trees, The
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Parlane &amp; Paisley - Choisir-chiuil/The Gaelic Choir
+K:Ab
+"Verse"
+AB|c2e2f2|c2B2 cB|A2E2F2|C2E2 AG|
+F2D2C2|E2F2 AB|cB A2 B2|c4||
+"Chorus"
+AG|F2E2c2|c2B2 ce|f2e2c2|B2c2AG|
+F2D2C2|E2A2B2|cB A2G|F4||
+</pre>
+<hr />
+<p><a href="/wiki/Annotation:Land_of_the_Trees_(The)" title="Annotation:Land of the Trees (The)">Tune annotations</a>
+</p><p><br />
+</p>
+<!--
+NewPP limit report
+Cached time: 20220502015109
+Cache expiry: 1209600
+Dynamic content: false
+Complications: [varyâuser]
+[SMW] Inâtext annotation parser time: 0.011 seconds
+CPU time usage: 0.082 seconds
+Real time usage: 0.128 seconds
+Preprocessor visited node count: 1993/1000000
+Postâexpand include size: 19847/2097152 bytes
+Template argument size: 2465/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip postâexpand size: 793/5000000 bytes
+Lua time usage: 0.030/7 seconds
+Lua virtual size: 9.21 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  100.316      1 Template:Abctune
+100.00%  100.316      1 -total
+ 57.03%   57.210      1 Template:Break
+ 27.97%   28.059     45 Template:Font
+  1.26%    1.262      1 Template:F_score
+-->
+
+
+
+
+
+X: 1
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Campbell &amp; Campbell - The Kilberry Book of Ceol Meadhonach (1908, No. 13, p. 7)
+F:http://tunearch.org/wiki/Land_of_the_Trees_(The)	 2022-05-02 015111 UT
+K:D
+e2|A2A2d2|B2A2 Bd|e2e2f2|e2e2 ef|
+A2A2 GA|B2d2 de|f2 ed B2|A4:|
+|:Bd|e2 f&gt;A Bd|B2A2 Bd|e2 fa f2 e/f/|e2d2 f&gt;A|
+A2 GA BA|B2d2 de|f2 ed B2|A4:|]
+T:Land of the Trees, The
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Parlane &amp; Paisley - Choisir-chiuil/The Gaelic Choir
+K:Ab
+"Verse"
+AB|c2e2f2|c2B2 cB|A2E2F2|C2E2 AG|
+F2D2C2|E2F2 AB|cB A2 B2|c4||
+"Chorus"
+AG|F2E2c2|c2B2 ce|f2e2c2|B2c2AG|
+F2D2C2|E2A2B2|cB A2G|F4||
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼m Bir Yol SevdasÄ±na
+C: Ali RÄ±zÃ¢ Avni TÄ±naz
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz
+N: makam= acemasiran
+N: form= sarki
+N: usul= aksak = 9/8
+M: 9/8
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/SeymourShlien/makams/makamu6.abc	 2022-05-02 015117 UT
+K: C _B
+Q: 1/4=200
+%%MIDI tuningsystem comma53
+f6e2 d2c2 d2e2 f2 | g2 e2f6 c2d2 e2f4z2 f3e d2c2 B2A2 G2 |
+w:   |   |
+A2 F2F3GA2 B2c2 d2e2  | f2ga b4 b2a2 g4 ^f2 | \
+w:   |   |
+g2 a2g6 c2d2 e2f4z2 efe2 ded2 cdc2 B2 |
+w:   |
+A2 G2c3BA2 G2F2 E2F6 f6e2 d2c2 d2 | \
+w:   |
+e2 f2g2 e2f6 c2d2  |
+w:   |
+e2f4z2 f3e d2c2 B2 | A2 G2A2 F2F3GA2 B2c2  | \
+w:   |   |
+d2e2 f2ga b4 b2a2 g4 ^f2g2 a2g6 c2d2  |
+w:   |
+e2f4z2 efe2 ded2 cd | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F6 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 c4 d4 c2 |
+w:   |
+_e2 d2c2 B2d4c2 B2A2  | ^G2A4z2 d4 c2B2 d2 | \
+w:   |   |
+c2 B2A2 G2c3BA2 G2F2  |
+w:   |
+E2F4z2 ^g4 a4 a2 | ^g2 a6g3ba2 g2f2  | \
+w:   |   |
+^g2a4z2 =g4 g4 g4 _7/8a2g2 f2c'3_1/4ba2 g2f2  |
+w:   |
+e2f4z2 c4 d4 c2 | _e2 d2c2 B2d4c2 B2A2  | \
+w:   |   |
+^G2A4z2 d4 c2B2 d2 |
+w:   |
+c2 B2A2 G2c3BA2 G2F2  | E2F4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 |
+w:   |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼m Bir Yol SevdasÄ±na
+C: Ali RÄ±zÃ¢ Avni TÄ±naz
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz
+N: makam= acemasiran
+N: form= sarki
+N: usul= aksak = 9/8
+M: 9/8
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.ca/~seymour/runabc/makams/makamu6.abc	 2022-05-02 015118 UT
+K: C _B
+Q: 1/4=200
+%%MIDI tuningsystem comma53
+f6e2 d2c2 d2e2 f2 | g2 e2f6 c2d2 e2f4z2 f3e d2c2 B2A2 G2 |
+w:   |   |
+A2 F2F3GA2 B2c2 d2e2  | f2ga b4 b2a2 g4 ^f2 | \
+w:   |   |
+g2 a2g6 c2d2 e2f4z2 efe2 ded2 cdc2 B2 |
+w:   |
+A2 G2c3BA2 G2F2 E2F6 f6e2 d2c2 d2 | \
+w:   |
+e2 f2g2 e2f6 c2d2  |
+w:   |
+e2f4z2 f3e d2c2 B2 | A2 G2A2 F2F3GA2 B2c2  | \
+w:   |   |
+d2e2 f2ga b4 b2a2 g4 ^f2g2 a2g6 c2d2  |
+w:   |
+e2f4z2 efe2 ded2 cd | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F6 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 c4 d4 c2 |
+w:   |
+_e2 d2c2 B2d4c2 B2A2  | ^G2A4z2 d4 c2B2 d2 | \
+w:   |   |
+c2 B2A2 G2c3BA2 G2F2  |
+w:   |
+E2F4z2 ^g4 a4 a2 | ^g2 a6g3ba2 g2f2  | \
+w:   |   |
+^g2a4z2 =g4 g4 g4 _7/8a2g2 f2c'3_1/4ba2 g2f2  |
+w:   |
+e2f4z2 c4 d4 c2 | _e2 d2c2 B2d4c2 B2A2  | \
+w:   |   |
+^G2A4z2 d4 c2B2 d2 |
+w:   |
+c2 B2A2 G2c3BA2 G2F2  | E2F4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 |
+w:   |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼m Bir Yol SevdasÄ±na
+C: Ali RÄ±zÃ¢ Avni TÄ±naz
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz
+N: makam= acemasiran
+N: form= sarki
+N: usul= aksak = 9/8
+M: 9/8
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.pugmarks.com/~seymour/makams/makamu6.abc	 2022-05-02 015124 UT
+K: C _B
+Q: 1/4=200
+%%MIDI tuningsystem comma53
+f6e2 d2c2 d2e2 f2 | g2 e2f6 c2d2 e2f4z2 f3e d2c2 B2A2 G2 |
+w:   |   |
+A2 F2F3GA2 B2c2 d2e2  | f2ga b4 b2a2 g4 ^f2 | \
+w:   |   |
+g2 a2g6 c2d2 e2f4z2 efe2 ded2 cdc2 B2 |
+w:   |
+A2 G2c3BA2 G2F2 E2F6 f6e2 d2c2 d2 | \
+w:   |
+e2 f2g2 e2f6 c2d2  |
+w:   |
+e2f4z2 f3e d2c2 B2 | A2 G2A2 F2F3GA2 B2c2  | \
+w:   |   |
+d2e2 f2ga b4 b2a2 g4 ^f2g2 a2g6 c2d2  |
+w:   |
+e2f4z2 efe2 ded2 cd | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F6 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 c4 d4 c2 |
+w:   |
+_e2 d2c2 B2d4c2 B2A2  | ^G2A4z2 d4 c2B2 d2 | \
+w:   |   |
+c2 B2A2 G2c3BA2 G2F2  |
+w:   |
+E2F4z2 ^g4 a4 a2 | ^g2 a6g3ba2 g2f2  | \
+w:   |   |
+^g2a4z2 =g4 g4 g4 _7/8a2g2 f2c'3_1/4ba2 g2f2  |
+w:   |
+e2f4z2 c4 d4 c2 | _e2 d2c2 B2d4c2 B2A2  | \
+w:   |   |
+^G2A4z2 d4 c2B2 d2 |
+w:   |
+c2 B2A2 G2c3BA2 G2F2  | E2F4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 |
+w:   |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼m Bir Yol SevdasÄ±na
+C: Ali RÄ±zÃ¢ Avni TÄ±naz
+O: Turkey
+F: https://github.com/MTG/SymbTr/releases/tag/v2.2
+N: Also see http://ifdo.ca/~seymour/runabc/makams/index.html
+N: acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz
+N: makam= acemasiran
+N: form= sarki
+N: usul= aksak	Aksak	9	8	2+1+1+2+2+1
+M: 9/8
+L: 1/16
+K: C _B
+Q: 1/4=200
+%%MIDI tuningsystem comma53
+ [M: 9/8] [L: 1/16]f3e d2c2 d2e2 f2g2 e2 | \
+w:   |
+f6 c2d2 e2f4z2  | f3e d2c2 B2A2 G2A2 F2 |
+w:   |   |
+F3GA2 B2c2 d2e2 f2ga  | b4 b2a2 g4 ^f2g2 a2 | \
+w:   |   |
+g6 c2d2 e2f4z2  |
+w:   |
+efe2 ded2 cdc2 B2A2 G2 | c3BA2 G2F2 E2F6  | \
+w:   |   |
+f3e d2c2 d2e2 f2g2 e2 |
+w:   |
+f6 c2d2 e2f4z2  | f3e d2c2 B2A2 G2A2 F2 | \
+w:   |   |
+F3GA2 B2c2 d2e2 f2ga  |
+w:   |
+b4 b2a2 g4 ^f2g2 a2 | g6 c2d2 e2f4z2  | \
+w:   |   |
+efe2 ded2 cdc2 B2A2 G2 |
+w:   |
+c3BA2 G2F2 E2F6  | c4 f4 e4 f6 | g3ba2 g2f2 e2f4z2  | \
+w:   |   |   |
+e4 f4 d4 a6 |
+w:   |
+g3ba2 g2f2 e2f4z2  | c4 f4 e4 f6 | g3ba2 g2f2 e2f4z2  | \
+w:   |   |   |
+e4 f4 d4 a6 |
+w:   |
+g3ba2 g2f2 e2f4z2  | c4 d4 c2_e2 d2c2 B2 | \
+w:   |   |
+d4c2 B2A2 ^G2A4z2  |
+w:   |
+d4 c2B2 d2c2 B2A2 G2 | c3BA2 G2F2 E2F4z2  | \
+w:   |   |
+c4 d4 c2_e2 d2c2 B2 |
+w:   |
+d4c2 B2A2 ^G2A4z2  | d4 c2B2 d2c2 B2A2 G2 | \
+w:   |   |
+c3BA2 G2F2 E2F4z2  |
+w:   |
+^g4 a4 a2g2 a6 | ^g3ba2 g2f2 g2a4z2  | \
+w:   |   |
+g4 g4 g4 _7/8a2g2 f2 | c'3_1/4b_7/8a2 g2f2 e2f4z2  |
+w:   |   |
+c4 d4 c2_e2 d2c2 B2 | d4c2 B2A2 ^G2A4z2  | \
+w:   |   |
+d4 c2B2 d2c2 B2A2 G2 |
+w:   |
+c3BA2 G2F2 E2F4z2  | c4 d4 c2_e2 d2c2 B2 | \
+w:   |   |
+d4c2 B2A2 ^G2A4z2  |
+w:   |
+d4 c2B2 d2c2 B2A2 G2 | c3BA2 G2F2 E2F4z2  | |
+
+
+
+
+
+X: 1
+T:dtmoon (1:23)
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:dtmoon.mid
+%  Transpose:-25
+L:1/4
+Q:120
+K:C
+z43/8 C13/4 F5/8 G5/8 ^A5/8 ^A11/8 =A/4 A9/4 G3/4 F5/8 c15/8 F2 f41/8
+g3/4 f/4 c'6 z7/8 A,/4 ^A,3/8 C3/8 C7/8 F3/4 E5/8 F5/8 G5/8 A3/8 F7/2
+E3/8 F/4 c F3/8 F13/4 F/4 F3/8 F13/8 G/4 F3/8 E23/8 =A,13/8 G,3/8
+F,3/8 C13/8 F5/8 G5/8 ^A =A/4 A21/8 c5/8 ^A5/8 =A3/8 ^A3/8 =A/4 F5/8
+C11/8 G/4 F3/8 E3/8 D/4 E F/2 z/2 F/2 z/2 F5/8 ^A,5/2 F3/8 F3/8 z5/8
+G/4 G3/8 z3/8 ^D5/4 C5/8 ^D3/8 ^A,/4 [B,/8^A,/8] ^G,/4 ^A,5/8 ^G,3/8
+^A,/4 z3/8 ^G,3/8 z/4 C3 F/4 F3/8 z5/8 G/4 G3/8 z3/8 ^G5/8 ^D5/8
+^D5/8 ^D3/8 ^G/4 ^A19/8 ^G/4 c21/8 c3/8 c31/8 ^C/4 z3/8 ^D,/4 z13/8
+=A,3/8 ^A,3/8 =C/4 C F5/8 E5/8 F3/4 =G5/8 =A/4 F29/8 E/4 F3/8 c F/4
+F13/4 F3/8 F3/8 F13/8 G/4 F3/8 E23/8 =A,13/8 =G,3/8 F,/4 C13/8 F5/8
+G3/4 ^A7/8 =A3/8 A21/8 c5/8 ^A5/8 =A3/8 ^A/4 =A3/8 F5/8 C5/4 G3/8
+F3/8 E/4 =D3/8 E F/2 z3/8 F/2 z/2 F5/8 ^A,21/8 F3/8 F/4 z3/4 G/4 G3/8
+z/4 ^D11/8 C5/8 ^D/4 ^A,/4 B,/8 ^A,/8 ^G,/4 ^A,5/8 ^G,/4 ^A,3/8 z3/8
+^G,/4 z3/8 C23/8 F3/8 F/4 z3/4 G/4 G3/8 z/4 ^G3/4 ^D5/8 ^D5/8 ^D3/8
+^G/4 ^A9/4 ^G3/8 c21/8 c/4 c31/8 ^C3/4 ^D,/4
+
+
+
+
+
+X: 1
+T:D tune
+C:Paul Rosen
+S:Copyright 2010, Paul Rosen
+M:4/4
+L:1/8
+Q:112
+F:http://roaringjelly.org/~jc/music/abc/mirror/code.google.com/D_tune_1.abc	 2022-05-02 015133 UT
+K:C _B ^c "Dm"A3A d2 f2|a8| a^gab a2 ^g2| a8| "A7"A3A c2 e2 |"Gm"g2b2-b3^g|"A7"a3 a f2 e2|"Dm"d8:|
+
+
+
+
+
+X: 1
+T:D tune
+C:Paul Rosen
+S:Copyright 2010, Paul Rosen
+M:4/4
+L:1/8
+Q:112
+F:http://roaringjelly.org/~jc/music/abc/mirror/code.google.com/D_tune_2.abc	 2022-05-02 015138 UT
+K:C _B ^c "Dm"A3A d2 f2|a8| a^gab a2 ^g2| a8| "A7"A3A c2 e2 |"Gm"g2b2-b3^g|"A7"a3 a f2 e2|"Dm"d8:|
+
+
+
+
+
+X: 1
+T:D Tune
+R:reel
+C:John Wobus
+S:John Wobus composed 3/1/2005
+M:2/4
+K:D
+A2|:d2dd BAAA | FABF A2AB | d2dd BAAA | ABde fedB | d2dd BAAA |
+ FABF A2DE |1 F3A FEDB, | A,B,DE FEDD  :|2 F3A FEDF | EDEF EDB,D ||
+|:A,B,DE FEDE | FDAD BDAD | F2FA FEDB, | A,B,DE FEDB, |
+  A,B,DE FEDE | FDAD BDAD | G3A FEDF | EDEF EDB,D :|
+W:Copyright 2005 John Wobus, PGTPPCATPL AORR
+
+
+
+
+
+X: 1
+T:D Tune
+R:reel
+C:John Wobus
+S:John Wobus composed 3/1/2005
+M:2/4
+K:D
+A2|:d2dd BAAA | FABF A2AB | d2dd BAAA | ABde fedB | d2dd BAAA |
+ FABF A2DE |1 F3A FEDB, | A,B,DE FEDD  :|2 F3A FEDF | EDEF EDB,D ||
+|:A,B,DE FEDE | FDAD BDAD | F2FA FEDB, | A,B,DE FEDB, |
+  A,B,DE FEDE | FDAD BDAD | G3A FEDF | EDEF EDB,D :|
+W:Copyright 2005 John Wobus, PGTPPCATPL AORR
+
+
+
+
+
+X: 1
+T:D Tune
+R:reel
+C:John Wobus
+S:John Wobus composed 3/1/2005
+M:2/4
+K:D
+A2|:d2dd BAAA | FABF A2AB | d2dd BAAA | ABde fedB | d2dd BAAA |
+ FABF A2DE |1 F3A FEDB, | A,B,DE FEDD  :|2 F3A FEDF | EDEF EDB,D ||
+|:A,B,DE FEDE | FDAD BDAD | F2FA FEDB, | A,B,DE FEDB, |
+  A,B,DE FEDE | FDAD BDAD | G3A FEDF | EDEF EDB,D :|
+W:Copyright 2005 John Wobus, PGTPPCATPL AORR
+
+
+
+
+
+X: 1
+T:D Tune
+R:reel
+C:John Wobus
+S:John Wobus composed 3/1/2005
+M:2/4
+K:D
+A2|:d2dd BAAA | FABF A2AB | d2dd BAAA | ABde fedB | d2dd BAAA |
+ FABF A2DE |1 F3A FEDB, | A,B,DE FEDD  :|2 F3A FEDF | EDEF EDB,D ||
+|:A,B,DE FEDE | FDAD BDAD | F2FA FEDB, | A,B,DE FEDB, |
+  A,B,DE FEDE | FDAD BDAD | G3A FEDF | EDEF EDB,D :|
+W:Copyright 2005 John Wobus, PGTPPCATPL AORR
+
+
+
+
+
+X: 1
+T:N°80
+N:page 98
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Dmaj
+M:2/4
+[V:1]
+L:1/16
+"Violino primo"
+f4 e4|d2cB A4|d2df e2eg|f4 e4|f2fa e2eg|!p!f2fa e2eg|!f!f2ed c2d2|eaec A2A2|
+f4 e4|d2cB A4|d2df e2eg|f4 e4|f2fa e2eg|!p!f2fa e2eg|!f!f2ed e2c2|d4 d4:|
+|:e4 f4|edcB A2A2|!p!e4f4|edcB A2A2|!f!a4 b4|agfe d2d2|
+a4 b4|agfe d2A2|!f!d2df e2eg|f2fa d2df|e2eg fedc|d4 D4:|]
+[V:2]
+L:1/16
+"Violino Secundo"
+d4 A4|B2AG F4|F2Fd c2BA|d4 c4|d2df c2ce|d2df c2ce|d2cB A2^G2|c2cB A2A2|
+d4 A4|B2AG F4|F2Fd c2BA|d4 c4|d2df c2ce|d2df c2ce|d2AB A2G2|F4 F4:|
+|:c4 d4|cBA^G A2A2|c4 d4|cBA^G A2A2|f4 g4|fedc d2A2|
+f4 g4|fedc d2A2|F2FG G2GB|A2Ac F2Fc|G2GB AGFE|F4 F4:|]
+
+
+
+
+
+X: 1
+T:N°81 "Allegro Ma non troppo"
+N:page 100
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:2/4
+L:1/16
+"Allegro ma non troppo"g4 d4|BcBA G2d2|g2d2c2B2|A6 A2|B2Bd c2ce|defg a2g2|f2ed e2dc|d4 D4:|
+|:d4 AGAB|c4 c2dc|B2AB c2B2|AGFE D2D2|G2GB A2Ac|Bgfe d2c2|Bcdc B2A2|G4 [G,G]4:|]
+
+
+
+
+
+X: 1
+T:N°82
+N:page 101
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:2/4
+L:1/16
+B4 A4|GFGA G2B2|G2B2A2G2|D6 D2|G2GB A2A2|Bcde f2e2|d2d2A2c2|d4 D4:|
+|:B4 FEFG|A4 A2BA|G2FG A2G2|FED^C D2D2|G2GG F2FA|Gedc B2A2|GABA G2D2|G4 [G,G]4:|]
+
+
+
+
+
+X: 1
+T:N°82 Anglaisse
+C:trad
+O:Belgium
+S:JAMIN manuscript page 50-051
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:2/4
+L:1/16
+K:Gmaj
+d2|dBge d2d2|cBcA GDGB|AGAc BGBd|gdcB A2
+d2|dBge d2d2|cBcA Ggfe|edBd dcBA|G2G2 G2:|
+|:B2|ADDD DABc|BGGG GBdB|cBAG FGAB|AFGE D2
+B2|ADDD DABc|BGGG Ggfe|edBd dcBA|G2G2 G2"2fois":|]:
+
+
+
+
+
+X: 1
+T:N°83 Anglaisse
+C:trad
+O:Belgium
+S:JAMIN manuscript page 50-051
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:2/4
+L:1/16
+K:Gmaj
+Bc|d2d2 d2ef|g2>f2 e2dc|B2B2 BdcA|G2B2 D2
+Bc|d2d2 d2(ef)|g2>f2 e2dc|B2B2 BdcA|G2B2 G2:|
+|:AB|cAFD cAFD|dBGD dBGD|cAFD cAFD|GABc defg|
+e2e2 efge|d2d2 defg|dgfe dcBA|G2B2 G2"2fois":|]:
+
+
+
+
+
+X: 1
+T:N°83 "Marche"
+N:page 102
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:C|
+L:1/8
+d2 BB B2 (3cde|d2 BB B2 (3cde|ddcB ccBA|(3BcB (3ABA G2 (3ABc|
+B2 BB (3BAG (3dcB|A2 AA A2 (3ABc|(3BAG (3dcB (3gfe (3dcB|A2 AA A4:|
+|:A2 AA ABGA|(3BAG (3dcB (3gfe (3dcB|A2 AA A2 (3BAG|A2 AA A4|
+f2 ff fdef|g3 f/2e/2 d2 c2|(3Bcd (3efg B2 A2|G2 GG G4:|]
+
+
+
+
+
+X: 1
+T:N°84
+N:page 103
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+K:Gmaj
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:C|
+L:1/8
+B2 GG G2 (3ABc|B2 GG G2 (3ABc|BBAG AAGF|GGDD B,2 (3FGA|G2 GG G2 FE|
+D2 DD D2 (3FGA|(3GFE (3BAG (3edc (3BAG|[DF]2 [DF][DF] [DF]4:|
+|:F2 FF FGEF|(3GFE(3BAG (3edc (3BAG|[DF]2 [DF][DF] [DF]4|d2 dd dBcd|
+e3 d/2c/2 B2 A2|(3GAB (3cBA G2 F2|[B,G]2 [B,G][B,G] [B,G]4:|]
+
+
+
+
+
+X: 1
+T:N°84 La Nouvelle alexandrine
+C:trad
+O:Belgium
+S:JAMIN manuscript page 51-052
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:2/4
+L:1/16
+K:Gmaj
+%%staves 1
+[V:1]
+G2|G,2 G,4 d2|B2g2 d2b2|g2d2 B2G2|A2 A4
+A2|A,2 A,4 C2|F2A2 c2f2|g(dB)d g(ba)f|a4 g2||
+d2|D6 (FE)|D2F2 A2c2|(.e2.d2) .d2.d2|d6 (B,D)|
+C6(DC)|(A,B,CD E)FGA|B2B2 B2c2|(e4 d2)||
+%%staves 2 3
+[V:2]"Primo"
+d2|d2d'2 b2g2|d2b2 g2d2|B2d2 c2A2|d2>c2 B2
+d2|d2d'2 b2g2|d2b2 g2d2|B2d2 ^c2A2|(e4 d2)!D.C.!|]
+[V:3]"Secondo"
+z2|[GB]4 z4|[GB]4 z4|[GB]4 [FA]4|[GB]4 z2
+z2|[GB]4 z4|[GB]4 z4|[GB]4 [FA]4|^c4 d2!D.C.!|]
+
+
+
+
+
+X: 1
+T:N°85 Anglaisse
+C:trad
+O:Belgium
+S:JAMIN manuscript page 51-052
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:2/4
+L:1/16
+K:Gmaj
+d2|d2Bc d2ga|bagf edcB|dcAF DFAF|GABc ^cd
+ed|d2Bc d2ga|bagf edcB|dcAF DDEF|A4 G2:|
+|:AB|cBcB cedc|BABA BdcB|A^GAG AcBA|GABc ^cd
+ed|cBcB cedc|BABA BdcB|A^GAG AcBA|G2G2 G2"2fois":|]:
+
+
+
+
+
+X: 1
+T:N°85 "Presto"
+N:page 106
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Dmaj
+M:2/4
+L:1/16
+"Presto"A2|d2df e2eg|f2a2 a4|g2fe f2ed|e4 A2A2|d2df e2eg|f2a2 a4|g2fe fedc|d4:|
+|:e2|f2fa e2eg|f2fa e2eg|f2ed f2ed|e4 A2e2|f2fa e2eg|f2fa e2eg|f2ed fedc|d6:|]
+
+
+
+
+
+X: 1
+T:N°86
+N:page 106
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:2/4
+L:1/8
+d>cBd|cB AG|d>cBd|cB AG|B2 BA/2B/2|c2 cB/2c/2|dd e/2d/2c/2B/2|A4:|
+|:A>BcA|BcdB|A>BcA|BcdB|e2 e2|de/2f/2 gc|B2 d/2c/2B/2A/2|G4:|]
+
+
+
+
+
+X: 1
+T:N°87
+N:page 107
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Dmaj
+M:2/4
+L:1/16
+A2|F2Fd c2ce|d2f2 f4|e2dc d2cB|c4 A2A2|F2Fd c2ce|d2f2 f4|e2dc d2AE|F6:|
+|:c2|d2df c2ce|d2df c2ce|d2cB d2cB|A4 A2c2|d2df c2ce|d2df c2ce|d2cB A2BG|F4:|]
+
+
+
+
+
+X: 1
+T:N°88
+N:page 107
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:2/4
+L:1/8
+B>AGB|AGDB,|B>AGB|AGDB,|G2 GF/2G/2|A2 AG/2A/2|BB c/2B/2A/2G/2|D4:|
+|:D>GAF|GABG|D>GAF|GABG|[Ec]2 [Ec]2|Bc/2d/2 eA|G2 D2|G,4:|]
+
+
+
+
+
+X: 1
+T:N°89 "Marche"
+N:page 108
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Dmaj
+M:C|
+L:1/8
+d3 e f2 g2|f2 a2 d2 ef|g2 fe f2 ed|cdec d2 z f|e2 dc d2 cB|c2 d2 e2 A2|B2 f2 edcB|A4 [A,EA]4:|
+|:A3 B c2 d2|e2 a2 a2 f2|g2 ba gfed|a2 A2 z2 b2|a2 gf g2 fe|f2 g2 a2 d2|e2 b2 agfe|d4 [DAd]4:|]
+
+
+
+
+
+
+
+
+
+
+X: 1
+T:N°8 Andante
+T:3
+C:Trad
+O:Belgium
+S:Manuscrit anonyme N°3, page 2
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:3/8
+L:1/8
+K:Dmaj
+AAd|dAf|fda|agf|daf|eeg|ece|d3|
+AAd|dAf|fda|agf|daf|eeg|ece|d3|
+fff|e2d|dcB|ecA|faf|ece|dcB|A3|
+AAd|dAf|fda|a>gf|gab|afd|dcd|e3|
+gab|afd|gec|d3|]
+
+
+
+
+
+X: 1
+T:N°8 (Menuet)
+N:page 6
+S:Manuscrit Wandembrile (1778), Archives de l'Etat à Namur
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+K:Gmaj
+M:3/4
+L:1/8
+[G,DBg]2 d2 d2|d4 c2|BA G2 F2|G4 B2|AG A2 c2|BA B2 d2|efgdcB|A6:|
+|:a4 ce|eddc c2|a4 Bd|dccB B2|gfedcB|edcBAG|AcBAGF|G6:|]
+
+
+
+
+
+X: 1
+T:F7 - Blues Tonleiter
+M:3/4
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/contrib/Tunes/F7BluesTonleiter.abc	 2022-05-02 015259 UT
+K:C
+[|F_A_BB c_ef2|f_ecB _B_AF2|]
+
+
+
+
+
+X: 1
+T:F7 - Blues Tonleiter
+M:3/4
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/demo/Tunes/F7BluesTonleiter.abc	 2022-05-02 015300 UT
+K:C
+[|F_A_BB c_ef2|f_ecB _B_AF2|]
+
+
+
+
+
+X: 1
+% number
+T: O'Rafferty's Motor Car % title
+C:Tommie Connor % composer
+O:Songs and Dances of Ireland% origin.
+M:6/8 % meter
+L:1/8 % length of shortest note
+P:AB
+Q:180 % tempo
+K:C % key
+V:1 % voice 1
+P:A
+G |: "C" ccc "F" ccc | "C" c2 G EFG | "D7" A2 c "G7" d2 B | "C" c3-c2 G |
+w:Now Din-ny O' Raf-fer-ty's mo-tor car is the great-est I de-clare,_ It's
+Gcc "F" c2 c | "C" c2 G E2 G | "D7" A2 d d2 c | "G7" B3-B2 G |
+w:made up of bits and piece-s that he's picked up here and there,_ The
+"F" A2 A A2 c | "Em" B2 G EFG | "F" A2 G "G7" F2 A |"C" G3-GGG |
+w:en-gine must be age-s old but it's still got lots of power,_ With a
+Gcc "F" cBc | "C" c2 G EFG | "D7" A2 c "G7" d2 B | "C" c3-c2 G ||
+w:gal-lon of stout in the pet-rol tank it does nine-ty miles an hour!_ Oh
+P:B
+"C" e2 c cBc | e2 c cGG | "D7" A2 c "G7" B2 c |
+w:What a won-der-ful mo-tor car, it's the great-est ev-er
+"C" c3-c2 G | Gcc "F" ccc | "C" c2 G EFG | "D7" A2 d d2 c |
+w:seen!_ It used to be black as me fath-er's hat, now it's For-ty Shades of
+"G7" B3-B2 G | "F" A2 A A2 c | "Em" B2 G EFG | "F" A2 G F2 A |
+w:Green!_ On T. V. and the Ra-di-o and in ev-'ry pub-lic
+"C" G3-G2 G | "F" G2 c "F#dim" c2 c | "C" c2 G EGG | "D7" ABc "G7" d2 B |
+w:bar,_ the burn-ing ques-tion of the day is O'-Raf-fer-ty's mo-tor
+[1-4 "C" c3-c2 z | z4 z G : |[5 "C" c3-c z3 : |
+w:car!_ Now car!_
+W:
+W:Now two of the wheels are triangular and the third one's off a pram.
+W:The Fourth is the last remaining wheel from off a Dublin tram,
+W:The number plate's in Gaelic and the plugs won't even spark,
+W:And the chassis came off of a tinker's cart that collapsed in Phoenix Park.
+W:
+W:Chorus
+W:
+W:Now go for a ride in that motor car and you'll end up with the shakes;
+W:The road from Cork to Dublin is a vale of pains and aches,
+W:When traffic lights turn red ahead then you'd best jump out the door,
+W:For the minute that Dinny treads on the brake, then his foot goes through the floor!
+W:
+W:Chorus
+W:
+W:Now if you could see the upholstery, then your eyes would start to pop,
+W:It's nothing but empty beer crates with a load of sacks on top.
+W:The windscreen's gone to Lord-knows-where and there's mothballs in the horn,
+W:And I reckon he'd only get half a quid if he took it to the pawn.
+W:
+W:Chorus
+W:
+W:Now Dinny was driving 'round last week when the engine did the splits!
+W:It went up in smoke and nearly blew O'Connell Street to bits!
+W:They searched for Dinny and they found he'd landed up by heck
+W:Away on top of the G.P.O.1 with his L-plates2 round his neck!
+W:
+W:Chorus
+
+
+
+
+
+
+
+
+
+
+X: 1
+% number
+T: O'Rafferty's Motor Car % title
+C:Tommie Connor % composer
+O:Songs and Dances of Ireland% origin.
+M:6/8 % meter
+L:1/8 % length of shortest note
+P:AB
+Q:180 % tempo
+K:C % key
+V:1 % voice 1
+P:A
+G |: "C" ccc "F" ccc | "C" c2 G EFG | "D7" A2 c "G7" d2 B | "C" c3-c2 G |
+w:Now Din-ny O' Raf-fer-ty's mo-tor car is the great-est I de-clare,_ It's
+Gcc "F" c2 c | "C" c2 G E2 G | "D7" A2 d d2 c | "G7" B3-B2 G |
+w:made up of bits and piece-s that he's picked up here and there,_ The
+"F" A2 A A2 c | "Em" B2 G EFG | "F" A2 G "G7" F2 A |"C" G3-GGG |
+w:en-gine must be age-s old but it's still got lots of power,_ With a
+Gcc "F" cBc | "C" c2 G EFG | "D7" A2 c "G7" d2 B | "C" c3-c2 G ||
+w:gal-lon of stout in the pet-rol tank it does nine-ty miles an hour!_ Oh
+P:B
+"C" e2 c cBc | e2 c cGG | "D7" A2 c "G7" B2 c |
+w:What a won-der-ful mo-tor car, it's the great-est ev-er
+"C" c3-c2 G | Gcc "F" ccc | "C" c2 G EFG | "D7" A2 d d2 c |
+w:seen!_ It used to be black as me fath-er's hat, now it's For-ty Shades of
+"G7" B3-B2 G | "F" A2 A A2 c | "Em" B2 G EFG | "F" A2 G F2 A |
+w:Green!_ On T. V. and the Ra-di-o and in ev-'ry pub-lic
+"C" G3-G2 G | "F" G2 c "F#dim" c2 c | "C" c2 G EGG | "D7" ABc "G7" d2 B |
+w:bar,_ the burn-ing ques-tion of the day is O'-Raf-fer-ty's mo-tor
+[1-4 "C" c3-c2 z | z4 z G : |[5 "C" c3-c z3 : |
+w:car!_ Now car!_
+W:
+W:Now two of the wheels are triangular and the third one's off a pram.
+W:The Fourth is the last remaining wheel from off a Dublin tram,
+W:The number plate's in Gaelic and the plugs won't even spark,
+W:And the chassis came off of a tinker's cart that collapsed in Phoenix Park.
+W:
+W:Chorus
+W:
+W:Now go for a ride in that motor car and you'll end up with the shakes;
+W:The road from Cork to Dublin is a vale of pains and aches,
+W:When traffic lights turn red ahead then you'd best jump out the door,
+W:For the minute that Dinny treads on the brake, then his foot goes through the floor!
+W:
+W:Chorus
+W:
+W:Now if you could see the upholstery, then your eyes would start to pop,
+W:It's nothing but empty beer crates with a load of sacks on top.
+W:The windscreen's gone to Lord-knows-where and there's mothballs in the horn,
+W:And I reckon he'd only get half a quid if he took it to the pawn.
+W:
+W:Chorus
+W:
+W:Now Dinny was driving 'round last week when the engine did the splits!
+W:It went up in smoke and nearly blew O'Connell Street to bits!
+W:They searched for Dinny and they found he'd landed up by heck
+W:Away on top of the G.P.O.1 with his L-plates2 round his neck!
+W:
+W:Chorus
+
+
+
+
+
+X: 1
+T:O'Rafferty's, Paddy
+M:6/8
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/mirror/gradcenter.marlboro.edu/abc/Jigs/ORaffertys_Paddy.abc	 2022-05-02 015314 UT
+K:D Major
+dBA|dff cee|def gfe|dff cee|dfe dBA|!
+dff cee|def gfe|faf gfe|dfe:|!
+dcB|A3 B3|gfe fdB|A3 B3|dfe dcB|!
+A3 B3|gfe efg|faf gfe|dfe:|!
+dBA|fAA eAA|def gfe|fAA eAA|dfe dBA|!
+fAA eAA|def gfe|faf gfe|dfe:|!
+
+
+
+
+
+X: 1
+T:O'Rafferty's, Paddy
+M:6/8
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/mirror/atrilcoral.com/n-o.abc	 2022-05-02 015320 UT
+K:D Major
+dBA|dff cee|def gfe|dff cee|dfe dBA|!
+dff cee|def gfe|faf gfe|dfe:|!
+dcB|A3 B3|gfe fdB|A3 B3|dfe dcB|!
+A3 B3|gfe efg|faf gfe|dfe:|!
+dBA|fAA eAA|def gfe|fAA eAA|dfe dBA|!
+fAA eAA|def gfe|faf gfe|dfe:|!
+
+
+
+
+
+X: 1
+T:O'Rafferty's, Paddy
+M:6/8
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/mirror/terra.es/personal8/niltoni/n-o.abc	 2022-05-02 015322 UT
+K:D Major
+dBA|dff cee|def gfe|dff cee|dfe dBA|!
+dff cee|def gfe|faf gfe|dfe:|!
+dcB|A3 B3|gfe fdB|A3 B3|dfe dcB|!
+A3 B3|gfe efg|faf gfe|dfe:|!
+dBA|fAA eAA|def gfe|fAA eAA|dfe dBA|!
+fAA eAA|def gfe|faf gfe|dfe:|!
+
+
+
+
+
+X: 1
+T: O'Raghallaigh's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:A/G/|FDD ADD|def gfe|fdd fgf|eEE EFG|
+FDD ADD|def gfg|eag f2e|fdd d2:|
+|:e|faa fba|faf edd|faa fab|afd e2d|
+faa fbd|faf edd|efg f2e|fdd d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's Grave
+T:O'Reilly's Grave
+R:slow air
+H:The title refers to the poet Aog\'an \'O Rathaille (c. 1675-1729)
+H:from the Sliabh Luachra area.
+Z:id:hn-slowair-7
+M:
+L:1/8
+Q:1/4=70
+F:http://norbeck.nu/abc/i/hnslow0.abc	 2022-05-02 015329 UT
+K:Ador
+e2{fe} dB | c2{Bc}B A3 | A2 B/d/e/f/ | g2a{b}a4 | a2{ba}g {d}e2 |
+{fe}d2B d3 dB | {G}A3 {BA}GE | G4 | G2 A/G//E// D>EG | A3B {G}A4 ||
+A2 B/d/e/f/ | g2a{b}a4 | a2{ba}g {d}e2 e{fe} | d2B d3 dB A2 | {BA}G2 {AB}A4 ||
+A2 B/d/e/f/ | g2 e2 {ef}e | d2 e2f | g2a a4 | a2{ba}g e2 e{fe} |
+d2B d4 d2B | A2 {BAGE} G4 | G2 {AB}A/G//E// D>EG | A3B {cB}A4 ||
+A2 B/d/e/f/ | g2a{b}a4 | {ab}a2{ba}g e2 e{fe} | d2B d3 dB A2 | {BA}G2 {ABAG}A4 ||
+
+
+
+
+
+X: 1
+T:O'Rahilly's Grave
+T:O'Reilly's Grave
+R:slow air
+H:The title refers to the poet Aog\'an \'O Rathaille (c. 1675-1729)
+H:from the Sliabh Luachra area.
+Z:id:hn-slowair-7
+M:
+L:1/8
+Q:1/4=70
+F:http://www.norbeck.nu/abc/i/hnslow0.abc	 2022-05-02 015336 UT
+K:Ador
+e2{fe} dB | c2{Bc}B A3 | A2 B/d/e/f/ | g2a{b}a4 | a2{ba}g {d}e2 |
+{fe}d2B d3 dB | {G}A3 {BA}GE | G4 | G2 A/G//E// D>EG | A3B {G}A4 ||
+A2 B/d/e/f/ | g2a{b}a4 | a2{ba}g {d}e2 e{fe} | d2B d3 dB A2 | {BA}G2 {AB}A4 ||
+A2 B/d/e/f/ | g2 e2 {ef}e | d2 e2f | g2a a4 | a2{ba}g e2 e{fe} |
+d2B d4 d2B | A2 {BAGE} G4 | G2 {AB}A/G//E// D>EG | A3B {cB}A4 ||
+A2 B/d/e/f/ | g2a{b}a4 | {ab}a2{ba}g e2 e{fe} | d2B d3 dB A2 | {BA}G2 {ABAG}A4 ||
+
+
+
+
+
+X: 1
+%%etbk:tnset id:319,pos:1,rep:3x,ant:
+%%etbk:tnset id:376,pos:1,rep:3x,ant:
+%%etbk:pldat 2017-03-17T16:16,2017-03-16T18:17,2017-03-15T15:37,2017-03-14T15:58,2017-03-13T18:39,2017-03-12T14:50,2017-03-11T12:19,2017-03-09T18:48,2017-03-08T15:13,2017-03-06T18:04,2017-03-04T15:21,2017-03-03T16:12,2017-01-28T13:11,2017-01-27T16:34,2017-01-25T16:33,2017-01-24T15:19,2017-01-23T17:54,2017-01-20T16:38,2017-01-19T16:44,2017-01-18T15:03,2017-01-17T15:09,2017-01-16T18:07,2017-01-11T15:18,2017-01-10T17:01,2017-01-04T15:26,2016-11-04T15:11,2016-11-03T19:03,2016-11-02T15:18,2016-11-02T15:14,2016-11-01T15:34,2016-10-31T18:26,2016-10-29T14:43,2016-10-19T15:14,2016-10-18T16:08,2016-10-13T18:23,2016-10-10T18:07,2016-10-06T18:21,2016-10-05T15:39,2016-10-01T15:27,2016-05-19T17:59,2016-05-18T15:08,2016-05-17T15:19,2016-05-16T13:54,2016-05-15T15:24,2016-05-14T14:46,2016-05-11T17:18,2016-05-09T18:08,2016-03-11T15:25,2016-03-08T16:06,2016-02-04T18:04,2016-02-03T15:08,2016-02-02T15:33,2016-01-28T18:16,2016-01-26T15:17,2016-01-24T14:42,2016-01-23T14:45,2016-01-20T15:08,2016-01-17T11:07,2015-11-20T15:13,2015-11-19T18:44,2015-11-18T15:10,2015-11-17T16:20,2015-11-15T13:29,2015-11-14T15:45,2015-11-12T19:08,2015-11-10T16:29,2015-11-08T11:15,2015-09-10T15:44,2015-09-09T15:59,2015-09-08T18:22,2015-08-28T19:09,2015-07-22T16:19,2015-02-19T19:22,2015-02-17T16:50,2015-02-04T15:56,2015-02-03T16:04,2015-02-02T18:46,2015-02-01T14:14,2015-01-31T15:37,2015-01-29T19:05,2015-01-27T16:49,2015-01-25T16:49,2015-01-24T13:06,2015-01-22T18:50,2015-01-21T17:04,2015-01-13T17:05,2015-01-12T18:26,2015-01-08T18:40,2015-01-07T16:17,2015-01-06T18:48,2014-12-29T16:38,2014-12-28T14:14,2014-12-27T14:26,2014-12-26T14:52,2014-12-20T13:39,2014-12-15T15:11,2014-12-13T15:44,2014-12-10T15:16,2014-12-09T16:49,2014-12-03T17:49,2014-12-02T16:44,2014-11-30T14:40,2014-11-26T15:57,2014-11-25T19:04,2014-11-24T15:37,2014-11-22T14:18,2014-11-17T18:35,2014-11-15T15:14,2014-11-12T18:34,2014-11-10T18:17,2014-10-19T16:13,2014-10-11T14:57,2014-10-09T10:41,2014-10-05T16:55,2014-09-08T18:43,2014-09-04T18:21,2014-09-03T18:29,2014-09-02T18:25,2014-09-01T18:26,2014-08-31T13:41,2014-08-28T18:26,2014-08-27T18:33,2014-08-26T16:22,2014-08-26T16:19,2014-08-24T11:31,2014-08-06T18:33,2014-08-06T18:29,2014-08-03T14:51,2014-08-02T16:22,2014-07-26T15:02,2014-07-22T19:30,2014-07-21T21:02,2014-07-20T11:51,2014-07-18T10:42,2014-07-14T17:40,2014-07-13T15:13,2014-07-05T13:52,2014-07-04T11:41,2014-07-02T10:18,2014-06-22T16:50,2014-06-20T16:33,2014-06-19T19:26,2014-06-07T16:24,2014-05-19T18:57,2014-05-11T11:48,2014-05-09T18:07,2014-05-07T17:05,2014-05-06T17:54,2014-04-28T19:41,2014-04-12T12:54,2014-04-11T18:45,2014-04-10T18:42
+T: O'Rahilly's Grave
+Z: Piano Box Version by Martin Fleischmann
+H: Created 2014-04-10 /  Last Modified 2014-04-10
+R: slow air
+C: Dervish
+M: 4/4
+L: 1/8
+F:http://etunebook.ch/Irish%20Tunes%20-%20Martin%20Fleischmann.abc	 2022-05-02 015338 UT
+K: Ador
+|: !4!A-A>GE !1!D-D>EG |A2>AA3 A/B/|c3d/e/ g4 | a2 a4 !3!g/a/b/g/ |
+!4!a-a>ge !3!g-!4!g>ed/g/ | !2!e2 !4!e4!3!d/A/B/d/ | !4!e{f}e!3!!5!d4 !3!(3BAG |1 !2!A-!4!A>GE G4 :|2 A2>B A4 :|
+
+
+
+
+
+X: 1
+T: ORahillysMarch (1:04) - Lute
+%%part-name Lute
+M: 2/2
+Q: 120
+K: C maj
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+T:Gerald Sullivan's
+B:"Drawing from the Well" 10.1
+F:file ID: dfw/16orah_m
+M:4/4
+L:1/8
+Q:120
+R:march
+K:D
+(3ABc|d2d>f e2dB|A>BAF A2de|f>dfa f2ed|e2A>B A2 (3ABc|
+d2d>f e2dB|A>BAF A2de|f>afa A2f>e|d2d>c d2 :|
+df|a2a>b a2gf|e>def g2fe|f>dfa f2ed|e2A>B AGFE|
+d2df e2dB|A>BAF A2de|f>afa A2fe|d2d>c d2 :|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+T:Gerald Sullivan's
+B:"Drawing from the Well" 10.1
+F:file ID: dfw/16orah_m
+M:4/4
+L:1/8
+Q:120
+R:march
+K:D
+(3ABc|d2d>f e2dB|A>BAF A2de|f>dfa f2ed|e2A>B A2 (3ABc|
+d2d>f e2dB|A>BAF A2de|f>afa A2f>e|d2d>c d2 :|
+df|a2a>b a2gf|e>def g2fe|f>dfa f2ed|e2A>B AGFE|
+d2df e2dB|A>BAF A2de|f>afa A2fe|d2d>c d2 :|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - http://members.rogers.com/alf0
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A/B/c|"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A3e|fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/B/c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+fg|"D"af af|a2 g3/2f/2|"A7"ed ef|g2 fe|"D"fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/2B/2c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - http://members.rogers.com/alf0
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A/B/c|"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A3e|fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/B/c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+fg|"D"af af|a2 g3/2f/2|"A7"ed ef|g2 fe|"D"fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/2B/2c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A/B/c|"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A3e|fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/B/c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+fg|"D"af af|a2 g3/2f/2|"A7"ed ef|g2 fe|"D"fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/2B/2c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A/B/c|"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A3e|fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/B/c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+fg|"D"af af|a2 g3/2f/2|"A7"ed ef|g2 fe|"D"fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/2B/2c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:C|
+L:1/8
+K:D
+A/B/c|"D"d3/2c/2df edcB|A3/2B/2AF A3e|fdfa gfed|"A7"e2A3/2B/2 A2A/B/c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+fg|"D"afaf a2g3/2f/2|"A7"edef g2fe|"D"fdfa gfed|"A7"e2A3/2B/2 A2A/2B/2c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+
+
+
+
+
+X: 1
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:C|
+L:1/8
+K:D
+A/B/c|"D"d3/2c/2df edcB|A3/2B/2AF A3e|fdfa gfed|"A7"e2A3/2B/2 A2A/B/c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+fg|"D"afaf a2g3/2f/2|"A7"edef g2fe|"D"fdfa gfed|"A7"e2A3/2B/2 A2A/2B/2c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+
+
+
+
+
+
+
+
+
+
+X: 1
+T:Oran do Lios-Mor
+Z:Jack Campin, http://www.campin.me.uk/
+B:Captain Eoghan Anderson: Measan Milis as an Lios (The Sweet Lapdog of Lismore), 1925
+F:http://www.campin.me.uk/Music/Lismore.abc
+I:last edit 17-12-2013
+M:2/4
+L:1/8
+Q:1/4=100
+K:Eb
+B|e3  e|f3  g|f3  e|e3
+G|G3  e|e2 d2|c3  B|B3
+c|B2 A2|G3  E|G2 B2|e3
+c|B2 c2|E2 G2|F2 E2|E3|]
+
+
+
+
+
+X: 1
+T:Oran do Mhac-Griogair o Ruadh-Shruth
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:13law/abc/Tolmie.abc
+S:Frances Tolmie: 105 Songs of Occupation from the Western Isles of Scotland
+N:sung by Janet Anderson, Bracadale, Skye, 1861
+N:Tolmie contributed the second tune for this in the Gesto Collection; the first
+N:is a different one, similar to that in the Minstrelsy of the Scottish Highlands
+M:3/4
+L:1/8
+Q:1/4=90
+K:CMix
+(CD)|F2 (GA) (GF)|(DC) (CA,) (CD) |F2 F2  (GA)|({A}G2)  C2 C2|
+     A2  c2  (dc)|(AG)  F2   (A>C)|D2 C2   A2 |   (A<G) F2  ||
+(CD)|F2 (GA) (GF)|(DC) (CA,) (CD) |F2 F2  (GA)|({A}G2)  C2 CC|
+     A2  c2   A>G| F2   D2    C>D |C2 A,2 (DE)|({E}D2)  C2  |]
+
+
+
+
+
+X: 1
+T:Oran do'n "Mharmion"
+Z:Jack Campin, http://www.campin.me.uk/
+B:Captain Eoghan Anderson: Measan Milis as an Lios (The Sweet Lapdog of Lismore), 1925
+F:http://www.campin.me.uk/Music/Lismore.abc
+I:last edit 17-12-2013
+N:The Marmion was an explosives carrier ship
+N:owned by Nobel of Glasgow from 1893 to 1910.
+M:2/4
+L:1/8
+Q:1/4=80
+K:F#Min
+   A>F F<E|c>B c>E|E>E F>G|F2  F2  |
+   B>A FE |c>B c>e|f>f e>f|c>c c3/
+B/|A>A A>e|c>c c>e|A>F G>E|F2  F3/||
+B/|A>A F>E|c>c c>e|f>f e>f|c>c c3/
+B/|A>G A>e|c>c c>B|A>F G>E|F2  F2 |]
+
+
+
+
+
+X: 1
+T: ORAN GAOIL
+Q: "Slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.167 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB2/21671_Oran_Gaoil.abc	 2022-05-02 015431 UT
+K: F	% and Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+d |\
+(cA)c | dde | f>gf | (f>e)d |\
+cAf | {f}e2d | cAd | D2E |\
+F>G (A/B/) | cAF | GAc | d>ef |\
+c<AF | A>B (A/G/) | F>GE | D2 |]
+A |\
+(d>e)d | {d}c2G | f2f | {f}e2d |\
+(cA)f | {f}e2d | cAd | D2E |\
+F>G A/B/ | cAF | GAc | d>ef |\
+cAF | A2A/G/ | F>GE | D2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T: ORAN GAOIL
+Q: "Slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.167 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB2-1846-V1.abc	 2022-05-02 015438 UT
+K: F	% and Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+d |\
+(cA)c | dde | f>gf | (f>e)d |\
+cAf | {f}e2d | cAd | D2E |\
+F>G (A/B/) | cAF | GAc | d>ef |\
+c<AF | A>B (A/G/) | F>GE | D2 |]
+A |\
+(d>e)d | {d}c2G | f2f | {f}e2d |\
+(cA)f | {f}e2d | cAd | D2E |\
+F>G A/B/ | cAF | GAc | d>ef |\
+cAF | A2A/G/ | F>GE | D2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T: ORAN GAOIL
+Q: "Slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.167 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB2/HUTB2-1846-V1.abc	 2022-05-02 015440 UT
+K: F	% and Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+d |\
+(cA)c | dde | f>gf | (f>e)d |\
+cAf | {f}e2d | cAd | D2E |\
+F>G (A/B/) | cAF | GAc | d>ef |\
+c<AF | A>B (A/G/) | F>GE | D2 |]
+A |\
+(d>e)d | {d}c2G | f2f | {f}e2d |\
+(cA)f | {f}e2d | cAd | D2E |\
+F>G A/B/ | cAF | GAc | d>ef |\
+cAF | A2A/G/ | F>GE | D2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T: ORAN GAOIL
+Q: "Slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.167 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB2-1846-V2.abc	 2022-05-02 015446 UT
+K: F	% and Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+d |\
+(cA)c | dde | f>gf | (f>e)d |\
+cAf | {f}e2d | cAd | D2E |\
+F>G (A/B/) | cAF | GAc | d>ef |\
+c<AF | A>B (A/G/) | F>GE | D2 |]
+A |\
+(d>e)d | {d}c2G | f2f | {f}e2d |\
+(cA)f | {f}e2d | cAd | D2E |\
+F>G A/B/ | cAF | GAc | d>ef |\
+cAF | A2A/G/ | F>GE | D2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T: ORAN GAOIL
+Q: "Slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.167 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB2/HUTB2-1846-V2.abc	 2022-05-02 015448 UT
+K: F	% and Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+d |\
+(cA)c | dde | f>gf | (f>e)d |\
+cAf | {f}e2d | cAd | D2E |\
+F>G (A/B/) | cAF | GAc | d>ef |\
+c<AF | A>B (A/G/) | F>GE | D2 |]
+A |\
+(d>e)d | {d}c2G | f2f | {f}e2d |\
+(cA)f | {f}e2d | cAd | D2E |\
+F>G A/B/ | cAF | GAc | d>ef |\
+cAF | A2A/G/ | F>GE | D2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T:The Orange and Blue (0:57)
+Z:Balinoi Dwarven Minstrel of Brandywine
+%  Original file:theorangeandblue.mid
+%  Transpose:-10
+L:1/4
+Q:116
+K:C
+[C123/8C,123/8z23/8] c'/2 a/8 [f5/8z/2] ^a/8 [g/8^A/8f7/8] z3/4
+[^a/8c5/8] z/2 [f/4^a/8] [g/8^A/8] f3/4 [^a/8=a5/8] z/2 [^a/4z/8]
+c'/8 [=a/8c'5/8] z/2 [a/4^A/8] [f/8e/8] [f3/4z5/8] ^a/8 [g/8^A/8f7/8]
+z3/4 [^a/8e/4] z/8 [g5/8z/2] c/8 g3/4 [^a/8e/4] z/8 [f/8c5/8] z3/8
+[^a/8g/8] [=a/8g5/8] z/2 [c/4z/8] ^a/8 [e3/4z5/8] ^A/8 [f/8^A/8g5/8]
+z/2 e/4 [^a/8c7/8] z/4 [C,123/8C123/8z/4] ^A/8 [d/8^A/8] c5/8 c'/8
+=a/4 [f5/8z/2] [^a/8g/8] [^A/8f7/8] z5/8 ^a/8 c5/8 [f/8^a/8]
+[g/8^A/8f7/8] z3/4 [^a/8=a5/8] z/2 [^a/4z/8] [c'/8=a/8] c'5/8
+[a/8^A/8] [f7/8e/8] z3/4 [^a/8=a5/8] z/2 [^a/4z/8] [c'/8=a/8] c'5/8
+a/8 [^a5/8g/8] z/2 [g/4z/8] [^a/8=a/8] [^a/8=a5/8] z/2 [f/4^a/8]
+[g/8=a/8] g5/8 f/8 [^a/8e/4] z/8 [f/8c5/8] z/2 [^a/8d5/8] z/2
+[e/4^A/8] [f/8d/8] [f3/4z5/8] ^a/8 [g/8^A/8f/2] z3/8 ^a3/8 [c'/8=a/4]
+z/8 [c'5/8z/2] [C123/8C,123/8^a/8] c'3/4 =a/4 c'5/8 [^a/8c'7/8] z5/8
+[=a/8^a/8] =a5/8 ^a/8 [c'5/8=a/8] z/2 [a/4z/8] [^A/8f/8] [e/8f7/8]
+z/2 ^a/8 [g/8^A/8] f3/4 [^a/8e/4] z/8 g5/8 [c/8g7/8] z5/8 ^a/8 e/8
+[f/8c5/8] z3/8 ^a/8 [g5/8=a/8] z/2 c/4 [^a/8e7/8] z/2 ^A/8 [f/8^A/8]
+g5/8 e/8 [^a/8c7/8] z5/8 [^A/8d/8] [^A/8c5/8] z/2 [^a/4z/8] c'/8 =a/8
+c'5/8 [^a/8c'7/8] z3/4 =a/4 [c'5/8z/2] ^a/8 [c'3/4z/4]
+[C,123/8C123/8z/2] [=a5/8^a/8] z/2 [^a/4z/8] c'/8 [=a/8c'5/8] z/2
+[a/4^A/8] [f/8e/8] f3/4 [^a/8=a5/8] z/2 [^a/4z/8] c'/8 [=a/8c'5/8]
+z/2 [a/4z/8] [^a/8g/8] ^a5/8 [g/8^a/8] [=a5/8^a/8] z/2 [f/4z/8]
+[^a/8g/8] [=a/8g5/8] z/2 [f/4z/8] ^a/8 e/8 [f/8c5/8] z/2 [^a/8d5/8]
+z/2 [f/8e/4] [^A/8f/8] [d/8f7/8] z/2 ^a/8 [g/8^A/8] f3/8 c'3/8 =a/4
+[f5/8z/2] [^a/8g/8] [^A/8f7/8] z5/8 ^a/8 c5/8 [f/8^a/8] [g/8^A/8f7/8]
+z3/4 [^a/8=a5/8] z/2 [^a/4z/8] [c'/8=a/8] c'5/8
+[C123/8a/8C,123/8^A/8] [f7/8e/8] z5/8 [^a/8g/8] [^A/8f7/8] z5/8 ^a/8
+e/8 g5/8 [c/8g7/8] z3/4 [^a/8e/4] f/8 [c5/8z3/8] ^a/8 [g/8=a/8] g5/8
+c/8 [^a/8e7/8] z5/8 [^A/8f/8] [^A/8g5/8] z/2 [e/4z/8] ^a/8 [c3/4z5/8]
+^A/8 [d/8^A/8c5/8] z/2 c'/4 =a/4 [f5/8z3/8] ^a/8 [g/8^A/8] f3/4
+[^a/8c5/8] z/2 [f/4z/8] [^a/8g/8] [^A/8f7/8] z5/8 ^a/8 =a5/8 ^a/8
+[c'5/8=a/8] z/2 [a/4z/8] [^A/8f/8] [e/8f7/8] z5/8 ^a/8 =a5/8 ^a/8
+[c'5/8=a/8] z/8 [C,123/8C123/8z3/8] [a/4z/8] ^a/8 [g/8^a5/8] z/2
+[g/4^a/8] [=a/8^a/8] =a5/8 [f/8^a/8] [g5/8=a/8] z/2 f/4 [^a/8e/4] f/8
+[c5/8z/2] ^a/8 d5/8 [e/8^A/8] [f7/8d/8] z5/8 [^a/8g/8] [^A/8f3/8] z/4
+[^a/2z3/8] c'/8 =a/8 c'5/8 [^a/8c'7/8] z3/4 =a/4 [c'5/8z/2] ^a/8
+c'3/4 [=a5/8^a/8] z/2 [^a/4z/8] c'/8 [=a/8c'5/8] z/2 [a/4^A/8]
+[f/8e/8] [f3/4z5/8] ^a/8 [g/8^A/8f7/8] z3/4 [^a/8e/4] z/8 [g5/8z/2]
+c/8 g3/4 [^a/8e/4] z/8 [f/8c5/8] z/4 [C,123/8C123/8z/8] [^a/8g/8]
+[=a/8g5/8] z/2 [c/4z/8] ^a/8 [e3/4z5/8] ^A/8 [f/8^A/8g5/8] z/2 e/4
+[^a/8c7/8] z/2 ^A/8 [d/8^A/8] c5/8 ^a/8 [c'/8=a/4] z/8 c'5/8
+[^a/8c'7/8] z3/4 =a/8 c'5/8 [^a/8c'7/8] z5/8 =a/8 [^a/8=a5/8] z/2
+[^a/4z/8] [c'/8=a/8] c'5/8 [a/8^A/8] [f7/8e/8] z3/4 [^a/8=a5/8] z/2
+[^a/4z/8] [c'/8=a/8] c'5/8 a/8 [^a5/8g/8] z/2 [g/4z/8] [^a/8=a/8]
+[^a/8=a5/8] z/2 [f/4^a/8] [g/8=a/8] g5/8 f/8 [^a/8e/4] z/8 [f/8c5/8]
+z/2 [^a/8d5/8] [C,19/8C19/8z/2] [f/8e/4^A/8] [f/8d/8] [f3/4z5/8] ^a/8
+[g/8^A/8f7/8]
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [1]
+M:4/4
+L:1/8
+K:D
+fdd2 Add2|fgaf d2ef|gee2 Bee2|cdec A2ag|
+fdd2 Add2|fgaf dfga|bgaf gfed|cABc d3e:||
+faa2 faa2|fgaf d2ef|gbb2gbb2|gabg efge|
+faa2 faa2|fgaf dfga|bgaf gfed|cABc d3e:||
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [1]
+M:C
+L:1/8
+R:Highland Schottische
+B:Moffat - Dance Music of the North (1908, No. 43, p. 18)
+Z:AK/Fiddler's Companion
+K:A
+e/d/|c<A A2 E<A A2|(c>A)(e>c) A2- AB/c/|d<B B2 F<B B2|(G<E)B>G E2- Ee/d/|
+c<A A2 E<A A2|(c>A)(e>c) A2- Ad/e/|(f>d)(e>c) (d>B)(c>A)|(G>E) (3E/F/G A2-A||
+e|c<e e2 c<e e2|(c>A)(e>c) A2- AB/c/|d<f f2 d<f f2|(d>B)(f>d) B2- Bc/d/|
+c<ee2 c<ee2|(c>A)(e>c) A2- Ad/e/|(f>d)(e>c) (d>B)(c>A)|(G>E) (3EFG A2-A||
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [1]
+M:4/4
+L:1/8
+K:D
+fdd2 Add2|fgaf d2ef|gee2 Bee2|cdec A2ag|
+fdd2 Add2|fgaf dfga|bgaf gfed|cABc d3e:||
+faa2 faa2|fgaf d2ef|gbb2gbb2|gabg efge|
+faa2 faa2|fgaf dfga|bgaf gfed|cABc d3e:||
+
+
+
+
+
+X: 1
+%
+T:Orange And Blue [1]. JMT.065
+M:2/4
+L:1/8
+Q:1/4=100
+S:J.Moore,Tyneside,1841.(46a)
+R:.Rant
+O:England
+A:Northumbria
+N:Rant in the 18thC Scottish sense.
+Z:vmp.Chris Partington
+K:C
+"*"gf|e2cc Gcc2|ec (e/f/g/f/) ecce|fdd2 Addc|BG (B/c/d/c/) BGGg|!
+ecc2 Gcc2|ec (e/f/g/f/) eccg|a>fg>e f>de>c|(B/c/d/c/) GBc2:|!
+|:gf|egg2 eggf|ec (e/f/g/f/) ecce|faa2 faag|fd (f/g/a/g/) fddf|!
+egg2 eggf|ec (e/f/g/f/) eccg|a>fg>e f>de>c|(B/c/d/c/) GBc2:|
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [1]. RHu.108
+S:R.Hughes MS,1823,Whitchurch,Shrops.
+N:A well known Scots tune which is not in its normal time sig.
+A:Whitchurch , Shropshire
+Z:Neil Brookes 2007
+M:4/4
+L:1/8
+K:C
+cd|ec c2Gcc2|ec e/g/ec2c2|fdd2 Bdd2|fd f/a/f d2d2|!
+ec c2Gcc2|ec e/g/ec2c2|af ge f/e/d/c/  BGB/d/B|c2c2::!
+eg (3agf eg (3agf|ec e/g/e c2c2|fa (3bag fa (3bag|fd f/a/f d2d2|!
+eg (3agf eg (3agf|ec e/g/e c2c2|afge fedc|BG B/d/Bc2c2:|
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [2]
+M:6/8
+L:1/8
+R:Jig
+Q:"With spirit"
+B:Manson - Hamilton's Universal Tune Book, vol. 1 (1844, p. 17)
+Z:AK/Fiddler's Companion
+K:C
+g|Oe2c {d}cBc|G2c E2c|e2c ege|c3 cde|
+f2d d2c|B2d d2c|B2G BdB|GBc def|
+e2c {d}cBc|G2c E2c|e2c ege|c3 ceg|
+a2f g2e|f2d e2c|BdB GAB|c3 c2||
+f|e2 g gag|e2g gag|e2c ege|c3 cde|
+f2a aga|f2a aga|f2d faf|d3 def|
+efg gag|efg gag|ecd ege|ccd efg|
+afa geg|fdf edc|BdB GAB|cag fed||!fine!c3 c2O||
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [2]
+M:6/8
+L:1/8
+R:Jig
+Q:"With spirit"
+B:Manson - Hamilton's Universal Tune Book, vol. 1 (1844, p. 17)
+Z:AK/Fiddler's Companion
+K:C
+g|Oe2c {d}cBc|G2c E2c|e2c ege|c3 cde|
+f2d d2c|B2d d2c|B2G BdB|GBc def|
+e2c {d}cBc|G2c E2c|e2c ege|c3 ceg|
+a2f g2e|f2d e2c|BdB GAB|c3 c2||
+f|e2 g gag|e2g gag|e2c ege|c3 cde|
+f2a aga|f2a aga|f2d faf|d3 def|
+efg gag|efg gag|ecd ege|ccd efg|
+afa geg|fdf edc|BdB GAB|cag fed||!fine!c3 c2O||
+
+
+
+
+
+X: 1
+%
+T:Orange and Blue [2]
+M:6/8
+L:1/8
+R:Jig
+S:MacDonald - Skye Collection  (1887)
+Z:AK/Fiddler's Companion
+K:C
+f|e2c cBc|G2c E2c|e2c ege|c3 c2e|
+f2d dcd|A2d d2c|B2G BdB|G3 G2f|
+e2c ~c3|G2c E2c|e2c ege|c3 c2g|
+a2f g2e|f2d e2c| BdB GAB|c3 c2||
+f|e2(g g)ag|e2(g g)ag|e2c ege|c3 c2e|
+f2(a a)c'a|f2a ac'a|f2d faf|d3 d2f|
+e2(g g)ag|e2(g g)ag|e2c ege|c3 c2g|
+afa geg|fdf ece|BdB GAc|c3 c3||
+
+
+
+
+
+X: 1
+T: Orange and Blue
+C:
+R:Strathspey
+Q: 128
+F:http://roaringjelly.org/~jc/music/abc/mirror/BruceShawyer/strathspey/Orange_and_Blue_2.abc	 2022-05-02 015525 UT
+K:A
+M:4/4
+L:1/16
+|:e3d|cA3 A4 EA3 A4|c3A e3c A4 A3c|dB3 B4 FB3 B4|G3E B3G E4 e3d|
+cA3 A4 EA3 A4|c3A e3c A4 ((3cde) |f3d e3c d3B c3A|B3G ((3EFG) A4 e3d|
+ce3 e4 ce3 e4|c3A e3c A4 A3c|df3 f4 df3 f4|d3B f3d B4 B3d|
+ce3 e4 ce3 e4|c3A e3c A4 ((3cde) |f3d e3c d3B c3A|B3G ((3EFG) A4:|
+
+
+
+
+
+X: 1
+T: Orange and Blue
+C:
+R:Strathspey
+Q: 128
+K:A
+M:4/4
+L:1/16
+|:e3d|cA3 A4 EA3 A4|c3A e3c A4 A3c|dB3 B4 FB3 B4|G3E B3G E4 e3d|
+cA3 A4 EA3 A4|c3A e3c A4 ((3cde) |f3d e3c d3B c3A|B3G ((3EFG) A4 e3d|
+ce3 e4 ce3 e4|c3A e3c A4 A3c|df3 f4 df3 f4|d3B f3d B4 B3d|
+ce3 e4 ce3 e4|c3A e3c A4 ((3cde) |f3d e3c d3B c3A|B3G ((3EFG) A4:|
+
+
+
+
+
+X: 1
+T:Orange and Blue
+R:Jig
+S:MacDonald - Skye Collection
+N:pg.121
+M:6/8
+L:1/8
+F:http://roaringjelly.org/~jc/music/book/SCD/Skye_HB/X/133.abc	 2022-05-02 015532 UT
+K:C
+f|e2c cBc|G2c E2c|e2c ege|c3 c2e|f2d dcd|A2d d2c|B2G BdB|G3 G2f|
+e2c ~c3|G2c E2c|e2c ege|c3 c2g|a2f g2e|f2d e2c|BdB GAB|c3 c2||
+f|e2(g g)ag|e2(g g)ag|e2c ege|c3 c2e|f2(a a)c'a|f2a ac'a|f2d faf|d3 d2f|
+e2(g g)ag|e2(g g)ag|e2c ege|c3 c2g|afa geg|fdf ece|BdB GAc|c3 c3||
+
+
+
+
+
+X: 1
+T:Orange and Blue
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+F:http://roaringjelly.org/~jc/music/abc/mirror/kirby98.fsnet.co.uk/or/Orange_and_Blue_1.abc	 2022-05-02 015538 UT
+K:D
+ag|"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2ef|"Em"g/2e3/2e2 c/2e3/2e2|"A7"cAec A2ag|
+"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2ef|"Em"g/2b3/2b2 g/2b3/2b2|"A7"gebg e2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2||
+
+
+
+
+
+X: 1
+T: Orange and Blue
+C:
+R:Jig
+Q:180
+F:http://roaringjelly.org/~jc/music/abc/mirror/BruceShawyer/jig/Orange_and_Blue.abc	 2022-05-02 015540 UT
+K:A
+M:6/8
+L:1/16
+e2|c4A2 A2G2A2|E4A2 C4A2|c4A2 c2e2c2|A6A4c2|d4B2 B2^A2B2|
+F4B2 B4A2G4E2G2B2G2E6E4d2|c4A2A2G2A2E4A2C4A2
+c4A2 c2e2c2|A6A4e2|f4d2 e4c2|d4B2 c4A2|G2B2G2 E2F2G2|A6A4e2|
+c4e2 e2f2e2|c4e2 e2f2e2|c4A2 c2e2c2|A6A4c2|d4f2 f2g2f2|
+d4f2 f2g2f2|d4B2 d2f2d2|B6B4d2|c4e2 e2f2e2|c4e2 e2f2e2|
+c4A2 c2e2c2|A6A4e2|f2d2f2 e2c2e2|d2B2d2 c2A2c2|G2B2G2 E2F2G2|A6-A4||
+
+
+
+
+
+X: 1
+T: Orange and Blue
+C:
+R:Jig
+Q:180
+F:http://roaringjelly.org/~jc/music/abc/mirror/BruceShawyer/jigs/OrangeAndBlue.abc	 2022-05-02 015545 UT
+K:A
+M:6/8
+L:1/16
+e2|c4A2 A2G2A2|E4A2 C4A2|c4A2 c2e2c2|A6A4c2|d4B2 B2^A2B2|
+F4B2 B4A2G4E2G2B2G2E6E4d2|c4A2A2G2A2E4A2C4A2
+c4A2 c2e2c2|A6A4e2|f4d2 e4c2|d4B2 c4A2|G2B2G2 E2F2G2|A6A4e2|
+c4e2 e2f2e2|c4e2 e2f2e2|c4A2 c2e2c2|A6A4c2|d4f2 f2g2f2|
+d4f2 f2g2f2|d4B2 d2f2d2|B6B4d2|c4e2 e2f2e2|c4e2 e2f2e2|
+c4A2 c2e2c2|A6A4e2|f2d2f2 e2c2e2|d2B2d2 c2A2c2|G2B2G2 E2F2G2|A6-A4||
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+O: Kerr's 2nd
+R: jig
+Z: 2007 John Chambers <jc:trillian.mit.edu>
+B: Kerr 2nd (c.1880) p.211 #322
+M: 6/8
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/jig/OrangeAndBlueJ_A.abc	 2022-05-02 015546 UT
+K: A
+e | c2A  AGA | E2A  C2A | c2A cec | A3 A2c | d2B  B^AB | F2B  B2A | G2E GBG | E3 E2 ||
+e | c2A  AGA | E2A  C2A | c2A cec | A3 A2e | f2d  e2c  | d2B  c2A | GBG EFG | A3 A2 |]
+e | c2e- efe | c2e- efe | c2A cec | A3 A3c | d2f- faf  | d2f- faf | d2B dfd | B3 B2 ||
+d | c2e- efe | c2e- efe | c2A cec | A3 A2e | fdf  ece  | dBd  cAc | GBG EFG | A3 A2 |]
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+O: Kerr's 2nd
+R: jig
+Z: 2007 John Chambers <jc:trillian.mit.edu>
+B: Kerr 2nd (c.1880) p.211 #322
+M: 6/8
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/jig/Orange_and_Blue_J_A.abc	 2022-05-02 015552 UT
+K: A
+e | c2A  AGA | E2A  C2A | c2A cec | A3 A2c | d2B  B^AB | F2B  B2A | G2E GBG | E3 E2 ||
+e | c2A  AGA | E2A  C2A | c2A cec | A3 A2e | f2d  e2c  | d2B  c2A | GBG EFG | A3 A2 |]
+e | c2e- efe | c2e- efe | c2A cec | A3 A3c | d2f- faf  | d2f- faf | d2B dfd | B3 B2 ||
+d | c2e- efe | c2e- efe | c2A cec | A3 A2e | fdf  ece  | dBd  cAc | GBG EFG | A3 A2 |]
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+Q: "Highland Schottische."
+R: Schottische.
+%R: shottish
+B: James Kerr "Merry Melodies" v.1 p.20 s.0 #13
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/Kerr/MM1/120013_Orange_and_Blue.abc	 2022-05-02 015554 UT
+K: D
+ua>ug |\
+(f<d)d2 (A<d)d2 | vf>vdua>uf d2ud>uf |\
+g<ee2 (B<e)e2 | c>Ae>c A2ua>ug |\
+(f<d)d2 (A<d)d2 | f>da>f d2 (3(fga) |\
+vb>vga>uf g>ef>d | e>c (3(ABc) d2 |]
+ua>ug |\
+(f<a)a2 (f<a)a2 | f>da>f d2d>f |\
+(g<b)b2 (g<b)b2 | g>eb>g e2e>g |\
+(f<a)a2 (f<a)a2 | f>da>f d2 (3(fga) |\
+b>ga>f g>ef>d | e>c (3(ABc) d2 |]
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+R: Jig.
+%R: jig
+B: James Kerr "Merry Melodies" v.2 p.35 #322
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/Kerr/MM2/2322_Orange_and_Blue.abc	 2022-05-02 015559 UT
+K: A
+ue |\
+uc2uA AGA | vE2vA uC2uA | vc2vA cec | A3 uA2uc |\
+d2B B^AB | F2B B2A | G2E GBG | E3 E2d |\
+c2A AGA | E2A C2A | c2A cec |
+A3 A2ue |\
+vf2vd ue2uc | d2B c2A | GBG EFG | A3 A2 |]\
+ue |\
+c2e- efe | c2e- efe | c2A cec | A3 A2c |\
+d2f- faf | d2f- faf |
+d2B dfd | B3 B2d |\
+c2e- efe | c2e- efe | c2A cec | A3 A2ue |\
+fdf ece | dBd cAc | GBG EFG | A3 A2 |]
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+Q: "Lively"
+%R: jig
+B: "Edinburgh Repository of Music" v.1 p.19
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87776133
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/ERM/10191_Orange_and_Blue.abc	 2022-05-02 015600 UT
+K: G
+g !segno!|\
+f2d d3 | A2d F2d | f2d faf | d3 d2f |\
+g2e e3 | B2e e2d | c2A cec | A3 A2g |
+f2d d3 | A2d F2d | f2d faf | d3 d2g/a/ |\
+b2g a2f | g2e f2d | cec ABc | d3 d2 |]
+g |\
+f2a aba | f2a aba | f2d faf | d3 d2f |\
+g2b bc'b | g2b bc'b | g2e gbg | e3 e2g |
+f2a aba | f2a aba | f2d faf | d3 d2f/a/ |\
+b2g a2f | g2e f2d | cec ABc | d2b a2g !segno!|]
+
+
+
+
+
+X: 1
+T: Orange and blue
+F:http://www.rudemex.co.uk/library/ABC/Orange%20and%20blue.abc	 2022-05-02 015607 UT
+K:G
+M:4/4     %Meter
+L:1/8     %
+d>c||"G"B/G3/2 G2 D/G3/2 G2 |B3/2G/ d3/2B/ G2 A3/2B/ |"D"c/A3/2 A2 F/A3/2 A2 |F3/2D/ A3/2F/ D2 d3/2c/ |
+"G"B/G3/2 G2 D/G3/2 G2 |B3/2G/ d3/2B/ G2 (3Bcd |"C"e3/2c/ "G"d3/2B/ "Am"c3/2A/ "G"B3/2G/ |"D"A3/2F/ (3DEF "G"G2 dc/ ||
+||"G"B/d3/2 d/d3/2 d/d3/2 d/d3/2 |B3/2c/ d3/2B/ G2 G2 |"Am7"c/e3/2 e/e3/2 e/e3/2 e/e3/2 |"C"c3/2d/ e3/2c/ "D"A2 A2 |
+"G"B/d3/2 d/d3/2 d/d3/2 d/d3/2 |B3/2c/ d3/2B/ G2 (3Bcd |"C"e3/2c/ "G"d3/2B/ "Am"c3/2A/ "G"B3/2G/ |"D"A3/2F/ (3DEF "G"G2 |]
+     %End of file
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/program/shottish/Orange_and_Blue-G-16-3.abc	 2022-05-02 015609 UT
+K: G
+d>c |\
+"G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c || "G"B-<G ~G2 D-<G ~G2 |
+B>G d>B G2 (3Bcd | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B |
+"Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/D"A2 B>c || "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/shottish/Orange_and_Blue.abc	 2022-05-02 015614 UT
+K: D
+a>g | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 ef \
+    | "Em"g-<e ~e2 B-<e ~e2 | "A7"c>A e>c A2 ||
+a>g | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 (3fga \
+    | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+a>g | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 e>f \
+    | "Em"g-<b b2 "G"g-<b b2 | "Em"g>e b>g "A7"e2 ||
+f>g | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 (3fga \
+    | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+Z: John Chambers <jc@trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/500/OrangeAndBlue.abc	 2022-05-02 015616 UT
+K: D
+[| a>g | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 ef \
+       | "Em"g-<e ~e2 B-<e ~e2 | "A7"c>A e>c A2 a>g |
+       | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 (3fga \
+       | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+[| a>g | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 e>f \
+       | "Em"g-<b b2 "G"g-<b b2 | "Em"g>e b>g "A7"e2 f>g |
+       | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 (3fga \
+       | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/OrangeAndBlue_F.abc	 2022-05-02 015621 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/Orange_and_Blue-F-16-4.abc	 2022-05-02 015623 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/Orange_and_Blue-F-16-4.abc	 2022-05-02 015628 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/shottish0/Orange_and_Blue-F-16-4.abc	 2022-05-02 015630 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Orange_and_Blue-F-16-4.abc	 2022-05-02 015636 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey0/Orange_and_Blue-F-16-4.abc	 2022-05-02 015637 UT
+K: F
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 GA \
+    | "Gm"B-<G ~G2 D-<G ~G2 | "C7"E>C G>E C2 ||
+c>B | "F"A-<F ~F2 C-<F ~F2 | A>F c>A F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+c>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 G>A \
+    | "Gm"B-<d d2 "/f"B-<d d2 | "C/e"B>G d>B "C7"G2 ||
+A>B | "F"A-<c c2 "/e"A-<c c2 | "Dm"A>F c>A "/c"F2 (3ABc \
+    | "Bb"d>B "F/a"c>A "Gm"B>G "F"A>F | "C7"G>E (3CDE "F"F2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/BrochanLom_D.abc	 2022-05-02 015644 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/OrangeAndBlue.abc	 2022-05-02 015645 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/Orange_and_Blue-D-16-4.abc	 2022-05-02 015651 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/BrochanLom_D.abc	 2022-05-02 015653 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/Brochan_Lom-D-16-4.abc	 2022-05-02 015659 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/OrangeAndBlue.abc	 2022-05-02 015700 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/Orange_and_Blue-D-16-4.abc	 2022-05-02 015706 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/shottish0/Orange_and_Blue-D-16-4.abc	 2022-05-02 015708 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/BrochanLom_D.abc	 2022-05-02 015713 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Brochan_Lom-D-16-4.abc	 2022-05-02 015715 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/OrangeAndBlue.abc	 2022-05-02 015720 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Orange_and_Blue-D-16-4.abc	 2022-05-02 015722 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+%date: 1877
+Z: John Chambers <jc:trillian.mit.edu>
+B: Skye 1877 p.121 (jig)
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey0/Orange_and_Blue-D-16-4.abc	 2022-05-02 015729 UT
+K: D
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 ef \
+| "Em"g<e ~e2 B<e ~e2 | "A7"c>A e>c A2 ||
+  "A7"a>g \
+|  "D"f<d ~d2 A<d ~d2 | f>d a>f d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+  "A7"a>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 e>f \
+| "Em"g<b b2 "/D"g<b b2 | "A/C#"g>e "/B"b>g "A"e2 ||
+  "A7"f>g \
+|  "D"f<a a2 "/C#"f<a a2 | "Bm"f>d a>f "/A"d2 (3fga \
+|  "G"b>g "D/F#"a>f "Em"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Thin Porridge
+%date: 1877
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: Skye 1877 p.121 (jig)
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/BrochanLom_A.abc	 2022-05-02 015730 UT
+K: A
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 Bc \
+| "Bm"d<B ~B2 F<B ~B2 | "E7"G>E B>G E2 ||
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+  "E7"e>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 B>c \
+| "Bm"d<f f2 "/A"d<f f2 | "E/G#"d>B f>d B2 ||
+  "E7"c>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Thin Porridge
+%date: 1877
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: Skye 1877 p.121 (jig)
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/Brochan_Lom-A-16-4.abc	 2022-05-02 015737 UT
+K: A
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 Bc \
+| "Bm"d<B ~B2 F<B ~B2 | "E7"G>E B>G E2 ||
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+  "E7"e>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 B>c \
+| "Bm"d<f f2 "/A"d<f f2 | "E/G#"d>B f>d B2 ||
+  "E7"c>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Thin Porridge
+%date: 1877
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: Skye 1877 p.121 (jig)
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/BrochanLom_A.abc	 2022-05-02 015739 UT
+K: A
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 Bc \
+| "Bm"d<B ~B2 F<B ~B2 | "E7"G>E B>G E2 ||
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+  "E7"e>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 B>c \
+| "Bm"d<f f2 "/A"d<f f2 | "E/G#"d>B f>d B2 ||
+  "E7"c>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Thin Porridge
+%date: 1877
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: Skye 1877 p.121 (jig)
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Brochan_Lom-A-16-4.abc	 2022-05-02 015744 UT
+K: A
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 Bc \
+| "Bm"d<B ~B2 F<B ~B2 | "E7"G>E B>G E2 ||
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+  "E7"e>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 B>c \
+| "Bm"d<f f2 "/A"d<f f2 | "E/G#"d>B f>d B2 ||
+  "E7"c>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Thin Porridge
+%date: 1877
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+B: called a schottische in Skinner SV p.20 (with variations),
+B: Hunter  354
+B: second Kennedy tune-book
+B: Skye 1877 p.121 (jig)
+B: p.19, BSFC I-23, keep under O&B name alphabetically
+M: C
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Brochan_Lom_A.abc	 2022-05-02 015746 UT
+K: A
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 Bc \
+| "Bm"d<B ~B2 F<B ~B2 | "E7"G>E B>G E2 ||
+  "E7"e>d \
+|  "A"c<A ~A2 E<A ~A2 | c>A e>c A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+  "E7"e>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 B>c \
+| "Bm"d<f f2 "/A"d<f f2 | "E/G#"d>B f>d B2 ||
+  "E7"c>d \
+|  "A"c<e e2 "/G#"c<e e2 | "F#m"c>A e>c "/E"A2 (3cde \
+|  "D"f>d "A/C#"e>c "Bm"d>B "A"c>A | "E7"B>G (3EFG "A"A2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/shottish/BrochanLom_G.abc	 2022-05-02 015752 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/Scotland/strathspey/Orange_and_Blue-G-16-4.abc	 2022-05-02 015753 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/program/shottish/Orange_and_Blue-G-16-4.abc	 2022-05-02 015759 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/shottish0/Orange_and_Blue-G-16-4.abc	 2022-05-02 015801 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey/Orange_and_Blue-G-16-4.abc	 2022-05-02 015806 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+T: Brochan Lom
+T: Thin Porridge
+O: Trad
+Z: John Chambers <jc:trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/abc/strathspey0/Orange_and_Blue-G-16-4.abc	 2022-05-02 015808 UT
+K: G
+[| d>c | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 AB \
+       | "Am"c-<A ~A2 E-<A ~A2 | "D7"F>D A>F D2 d>c |
+       | "G"B-<G ~G2 D-<G ~G2 | B>G d>B G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+[| d>c | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 A>B \
+       | "Am"c-<e e2 "/G"c-<e e2 | "D/F#"c>A e>c "/E"A2 B>c |
+       | "G"B-<d d2 "/F#"B-<d d2 | "Em"B>G d>B "/D"G2 (3Bcd \
+       | "C"e>c "G/B"d>B "Am"c>A "G"B>G | "D7"A>F (3DEF "G"G2 |]
+
+
+
+
+
+X: 1
+T: ORANGE AND BLUE
+Q: "With spirit."
+%R: jig
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.17 #2
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Rewrote last bar as 2 endings, since ABC doesn't represent alternate notes with different head sizes.
+M: 6/8
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/Hamilton/HUTB1/10172_Orange_and_Blue.abc	 2022-05-02 015813 UT
+K: C
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+g !segno!|:\
+e2c {d}cBc | G2c E2c | e2c ege | c3 cde |\
+f2d d2c | B2d d2c | B2G BdB | GBc def |
+e2c {d}cBc | G2c E2c | e2c ege | c3 ceg |\
+a2f g2e | f2d e2c | BdB GAB | c3 c2 |] f |
+e2g gag | e2g gag | e2c ege | c3 cde |\
+f2a aga | f2a aga | f2d faf | d3 def |
+efg gag | efg gag | ecd ege | ccd efg |\
+afa geg | fdf edc | BdB GAB |1 cag fed !segno! :|2 c3 c3 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+X: 1
+T:Orange and Blue
+R:Strathspey
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: Jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+Z: aka Brochan Lom (Thin Porridge)
+Z: John Chambers <jc@trillian.mit.edu>
+M:4/4
+L:1/8
+F:http://roaringjelly.org/~jc/music/abc/mirror/sfco.puckette.com/strathspey/Orange_and_Blue.abc	 2022-05-02 015815 UT
+K:D
+a>g |\
+"D"  f<d          ~d2 A<d ~d2 |      f>da>f         d2 ef     |\
+"Em" g<e          ~e2 B<e ~e2 | "A7" c>Ae>c         A2 a>g    |
+"D"  f<d          ~d2 A<d ~d2 |      f>da>f         d2 (3fga  |\
+"G"  b>ga>f  "Em"  g>ef>d     | "A7" e>c (3ABc "D"  d2       ||
+|| a>g |\
+"D"  f<a a2 "F#m"  f<a a2     | "Bm" f>da>f   "D/A" d2 e>f    |\
+"G"  g<b b2 "D/F#" g<b b2     | "Em" g>eb>g   "A7"  e2 f>g    |
+"D"  f<a a2 "F#m"  f<a a2     | "Bm" f>da>f   "D/A" d2 (3fga  |\
+"G"  b>ga>f  "Em"  g>ef>d     | "A7" e>c (3ABc "D"  d2        |]
+
+
+
+
+
+X: 1
+T: Orange and Blue
+Z: John Chambers <jc@trillian.mit.edu>
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&B name alphabetically
+M: 4/4
+L: 1/8
+F:http://roaringjelly.org/~jc/music/book/500/BrochanLom_x.abc	 2022-05-02 015823 UT
+K: D
+[| a>g | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 ef \
+       | "Em"g-<e ~e2 B-<e ~e2 | "A7"c>A e>c A2 a>g |
+       | "D"f-<d ~d2 A-<d ~d2 | f>d a>f d2 (3fga \
+       | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+[| a>g | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 e>f \
+       | "Em"g-<b b2 "G"g-<b b2 | "Em"g>e b>g "A7"e2 f>g |
+       | "D"f-<a a2 "F#m"f-<a a2 | "Bm"f>d a>f "D"d2 (3fga \
+       | "G"b>g "D"a>f "A7"g>e "D"f>d | "A7"e>c (3ABc "D"d2 |]
+x8 x8 x8 x8 x8 x8 x8 x8 |
+x8 x8 x8 x8 x8 x8 x8 x8 |
+x8 x8 x8 x8 x8 x8 x8 x8 |
+x8 x8 x8 x8 x8 x8 x8 x8 |
+x8 x8 x8 x8 x8 x8 x8 x8 |
+x8 x8 x8 x8 x8 x8 x8 x8 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X: 1
+T:Orange and Blue
+N:called a schottische in Skinner SV p.20 (with variations),
+N:Hunter  354
+
+
+
+
+
+X: 1
+T:Orange and Blue
+N:called a schottische in Skinner SV p.20 (with variations),
+N:Hunter  354
+
+
+
+
+
+X: 1
+T:Orange and Blue
+Z:Jack Campin, 2006, http://www.campin.me.uk/
+M:C
+L:1/8
+Q:1/4=120
+F:http://roaringjelly.org/~jc/music/abc/contrib/Tunes/HillsOfGlenorchy.abc	 2022-05-02 015847 UT
+K:D
+f<dd2 A<dd2|f>da>f d2d>f|g<ee2  B<ee2 |c>A   e>c A2a>g|
+f<dd2 A<dd2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d4  ||
+f<aa2 f<aa2|f>da>f d2d>f|g<bb2  g<bb2 |g>e   b>g e2e>g|
+f<aa2 f<aa2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d3e |]
+
+
+
+
+
+X: 1
+T:Orange and Blue
+Z:Jack Campin, 2006, http://www.campin.me.uk/
+M:C
+L:1/8
+Q:1/4=120
+F:http://roaringjelly.org/~jc/music/abc/demo/Tunes/HillsOfGlenorchy.abc	 2022-05-02 015849 UT
+K:D
+f<dd2 A<dd2|f>da>f d2d>f|g<ee2  B<ee2 |c>A   e>c A2a>g|
+f<dd2 A<dd2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d4  ||
+f<aa2 f<aa2|f>da>f d2d>f|g<bb2  g<bb2 |g>e   b>g e2e>g|
+f<aa2 f<aa2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d3e |]
+
+
+
+
+
+X: 1
+Z:Frances Tolmie
+H:Sung in the nursery at Bracadale Manse, Skye, 1861
+B:'One Hundred and Five Songs of Occupation from the Western Isles of Scotland'
+B:in 'Journal of the Folk-Song Society', IV:3 (16) 1911, 192-3
+N:Lively. Reel time.
+N:'dha': dialect = 'do'
+L:1/8
+Q:1/4=120
+M:4/4
+F:http://tunearch.org/wiki/Brochan_Lom	 2022-05-02 015857 UT
+K:A
+c B A2 B A F2 | E B (BA) B2 B2 | c B A2 BA F2 |
+w:Broch-an lom, tan-a lom; Broch-an lom sÃ¹gh-ain; Brochan- lom, tan-a lom,
+E A A F A2 A2 | c e e e f f e c | B B B A B2 B2&#160;:||
+w:Broch-an tan-a sÃ¹gh-ain. Broch-an tan-a, tan-a, tan-a; Brocha-an tan-a sÃ¹gh-ain;
+c e e e f f e c | B A A F A2 A2 | c e e e f a e c |
+w:Broch-an tan-a, tan-a, tan-a; Broch-an tan-a sÃ¹gh-ain; Broch-an tan-a, tan-a, tan-a,
+B B B A B2 B2 |c B A2 B A F2 | C A A F A2 A2 |
+w:Broch-an tan-a sÃ¹gh-ain; Broch-an lom, tan-a lom, Broch-an tan-a sÃ¹gh-ain.
+c B A F E C D C | B, B B A B2 B2 | c B A F E D C B, |
+w:Thug-aibh ar-an dha na gill-ean, Leis a bhroch-an shÃ¹g-ain. Thug-aibh ar-an dha na gill-ean;
+A, A A F A2 A2 | c B A F E C D C | B, G G A B2 B2 |
+w:Leis a bhroch-an shÃ¹gh-ain; Thug-aibh ar-an dha na gill-ean, Leis a bhroch-an shÃ¹gh-ain,
+c B A2 B A F2 | E A A F A2 A2 |]
+w:Broch-an lom, tan-a lom, Brocha-an tan-a sÃ¹gh-ain.
+T: Orange and Blue
+O: Trad
+Z: John Chambers &lt;jc:trillian.mit.edu&gt;
+N: called a schottische in Skinner SV p.20 (with variations),
+N: Hunter  354
+N: jig or strathspey in Skye p.121
+N: second Kennedy tune-book
+N: p.19, BSFC I-23, keep under O&amp;B name alphabetically
+M: C
+L: 1/8
+K: D
+  "A7"a&gt;g \
+|  "D"f&lt;d ~d2 A&lt;d ~d2 | f&gt;d a&gt;f d2 ef| "Em"g&lt;e ~e2 B&lt;e ~e2 | "A7"c&gt;A e&gt;c A2 ||
+"A7"a&gt;g|"D"f&lt;d ~d2 A&lt;d ~d2|f&gt;d a&gt;f d2 (3fga|"G"b&gt;g "D/F#"a&gt;f "Em"g&gt;e "D"f&gt;d"A7"e&gt;c (3ABc "D"d2 |]
+"A7"a&gt;g|"D"f&lt;a a2 "/C#"f&lt;a a2|"Bm"f&gt;d a&gt;f "/A"d2 e&gt;f|"Em"g&lt;b b2 "/D"g&lt;b b2 | "A/C#"g&gt;e "/B"b&gt;g e2||
+"A7"f&gt;g|"D"f&lt;a a2 "/C#"f&lt;a a2|"Bm"f&gt;d a&gt;f "/A"d2 (3fga|"G"b&gt;g "D/F#"a&gt;f "Em"g&gt;e "D"f&gt;d | "A7"e&gt;c (3ABc "D"d2 |]
+
+
+
+
+
+X: 1
+T:Orange and Blue
+Z:Jack Campin, 2006, http://www.campin.me.uk/
+M:C
+L:1/8
+Q:1/4=120
+K:D
+f<dd2 A<dd2|f>da>f d2d>f|g<ee2  B<ee2 |c>A   e>c A2a>g|
+f<dd2 A<dd2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d4  ||
+f<aa2 f<aa2|f>da>f d2d>f|g<bb2  g<bb2 |g>e   b>g e2e>g|
+f<aa2 f<aa2|f>da>f d2f>a|b>ga>f g>ef>d|e>c (3ABc d3e |]
+
+
+
+
+
+X: 1
+T:Orange and Blue
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+F:http://roaringjelly.org/~jc/music/abc/mirror/redhawk.org/nmd/hpps.abc	 2022-05-02 015904 UT
+K:D
+ag|"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2ef|"Em"g/2e3/2e2 c/2e3/2e2|"A7"cAec A2ag|
+"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2ef|"Em"g/2b3/2b2 g/2b3/2b2|"A7"gebg e2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2||
+
+
+
+
+
+X: 1
+T:Orange and Blue
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+ag|"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2ef|"Em"g/2e3/2e2 c/2e3/2e2|"A7"cAec A2ag|
+"D"f/2d3/2d2 A/2d3/2d2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2ef|"Em"g/2b3/2b2 g/2b3/2b2|"A7"gebg e2ag|
+"D"f/2a3/2a2 f/2a3/2a2|"D"fdaf d2(3fga|"G"bg"D"af "A7"ge"D"fd|\
+"A7"ec(3ABc "D"d2||
+
+
+
+

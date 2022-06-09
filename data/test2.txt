@@ -1,0 +1,34 @@
+X: 32
+T:Bonny Woods and Braes (#108)
+M:4/4
+L:1/8
+S:Capt. F. O'Neill
+K:G
+d2|G2 GA Bd d2|cABG AG (3FED|G2 GA Bd d2|(3efg fa g2 b2|
+G2 GA Bd d2|cABG AG (3FED|G2 GA Bd d2|(3efg fa g2||
+d2|gaba gfed|efge dcBA|gaba gfed|(3efg fa g3 d|
+gaba gfed|efge dcBA|(3GGG GA Bd d2|(3efg fa g2||
+
+X: 41
+T:Betty Brown. JC.040
+M:C|
+L:1/8
+Q:120
+S:John Clare,Poet,Helpston. (1793-1864)
+K:G
+DD|G2Bdc2AF|(DF) AFG3A|B2GBA2Bg|(fe) dcd3d|!
+g2d=fe2ce|(dB) AGA3d|B2cde3g|B2cAG4|!
+g2fed4|e2dc{c}B3c|(dB) AGe2fg|B2BAG2|]
+
+
+
+X: 1
+T: I have a bonnet trimmed with blue
+B: The Songs of Elizabeth Cronin, ed. D=E1ibh=ED =D3 Cr=F3in=EDn
+M: 2/4
+L: 1/8
+K: D
+AB/c/ dB | BA F>G | AA GE | DE F2 |
+AB/c/ dB | BA F>G | AA GE | ED D2 ||
+A,D FB | AA F>G | AA/A/ GG/E/ | DE F2 |
+A,D FB | AF F>G | AA/A/ GG/E/ | ED D2 ||

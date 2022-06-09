@@ -1,0 +1,71 @@
+X: 32
+T:Bonny Woods and Braes (#108)
+M:4/4
+L:1/8
+S:Capt. F. O'Neill
+K:G
+d2|G2 GA Bd d2|cABG AG (3FED|G2 GA Bd d2|(3efg fa g2 b2|
+G2 GA Bd d2|cABG AG (3FED|G2 GA Bd d2|(3efg fa g2||
+d2|gaba gfed|efge dcBA|gaba gfed|(3efg fa g3 d|
+gaba gfed|efge dcBA|(3GGG GA Bd d2|(3efg fa g2||
+%
+% Known only as "The HIghland Fling" this cheerful tune has served
+% for that purpose as long as the editor can remember. For its name
+% as above printed, we are indebted to Officer William Walsh
+% whose memory in such matters is phenomenal.
+
+X: 41
+T:Betty Brown. JC.040
+M:C|
+L:1/8
+Q:120
+S:John Clare,Poet,Helpston. (1793-1864)
+R:Air
+O:England
+A:Northamptonshire
+N:Most of the quavers are separated in the MS , but i have beamed them
+N:for clarity. It makes no difference to the tune.CGP.
+Z:vmp.P. Headford
+K:G
+DD|G2Bdc2AF|(DF) AFG3A|B2GBA2Bg|(fe) dcd3d|!
+g2d=fe2ce|(dB) AGA3d|B2cde3g|B2cAG4|!
+g2fed4|e2dc{c}B3c|(dB) AGe2fg|B2BAG2|]
+W:Song text exists. See Deacon.|
+
+
+
+X: 1
+T: I have a bonnet trimmed with blue
+B: The Songs of Elizabeth Cronin, ed. D=E1ibh=ED =D3 Cr=F3in=EDn
+Z: Paul de Grae  irtrad-l 2000-9-04
+M: 2/4
+L: 1/8
+W: 1. I have a bonnet trimmed with blue;
+W:    Why don't you wear it So I do.
+W: [twice]
+W:
+W: 2. I will wear it when I can;
+W:    When I'll go away with my fair-haired man.
+W: [twice]
+W:
+W: 3. Open the window, do love, do!
+W:    Listen to the music playing for you!
+w: [twice]
+W:
+W: 4. [repeat 1st verse]
+W:
+W: There's also a version quoted from Iona & Peter Opie's book, "The Singing Game":
+W:
+W: 'I have a bonnet trimmed with blue.'
+W: 'Why don't you wear it' 'So I do.'
+W: 'When do you wear it' 'When I can -
+W: When I go out with my young man.
+W: My young man's away at sea,
+W: When he comes back he'll marry me;
+W: Buy me a biscuit, buy a tart,
+W: What do you think of my sweetheart'
+K: D
+AB/c/ dB | BA F>G | AA GE | DE F2 |
+AB/c/ dB | BA F>G | AA GE | ED D2 ||
+A,D FB | AA F>G | AA/A/ GG/E/ | DE F2 |
+A,D FB | AF F>G | AA/A/ GG/E/ | ED D2 ||
